@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7ecb1ca685d79ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Computer Networking/Network Cabling III.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
+                "file": "Lecture Computer Networking/Network Cabling III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
+                "file": "Lecture Computer Networking/Network Cabling III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture College Algebra - Full Course/3. Simplifying Radicals.md"
+                "file": "Lecture Computer Networking/Network Cabling III.md"
               }
             }
           },
@@ -178,8 +191,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06060b056c1c09de",
+  "active": "560f7afa2198be80",
   "lastOpenFiles": [
+    "File Baru.md",
+    "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
     "Lecture College Algebra - Full Course/1. Exponent Rules.md",
     "Lecture College Algebra - Full Course/Detail/⭐️ Course Contents ⭐️.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
@@ -187,7 +202,7 @@
     "Lecture Blockchain and Money/Week 2/2. Money, Ledgers & Bitcoin.md",
     "Lecture Blockchain and Money/Week 2/Detail/Lecture Slides.md",
     "Untitled.md",
-    "Non-Plenum.md",
+    "Lecture Computer Networking/Detail Network Device/Non-Plenum.md",
     "Ava - Getting Started.md",
     "picture.jpg.md",
     "image.png.md",
@@ -209,17 +224,15 @@
     "Lecture Teknik Informatika/Mindmap Pengantar Teknologi Informasi.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail",
     "Lecture Learning Python/Python for Everybody - Full University Python Course",
-    "Plenum.md",
+    "Lecture Computer Networking/Detail Network Device/Plenum.md",
     "Day Planners/Day Planner-20230606.md",
     "Day Planners/Day Planner-20230603.md",
     "Day Planners/Day Planner-20230604.md",
     "Day Planners/Day Planner-20230605.md",
-    "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
     "Lecture Learning Python",
     "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
     "Simplifying using Exponent Rules.md",
     "Lecture Learning English/Jadwal/1. Monday are for Reading.md",
-    "Learning From YouTube/Tips/Chris Lattner, Future of Programming and AI. Lex Fridman Podcast.md",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605105029.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104947.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104628.png",
