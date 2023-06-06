@@ -1,0 +1,7 @@
+Uji Itik (Duck Test) adalah sebuah konsep yang digunakan untuk menggambarkan cara membedakan sesuatu berdasarkan ciri-ciri dan tindakannya. Konsep ini mengatakan bahwa jika suatu hal bersuara seperti itik dan berjalan seperti itik, maka kita bisa menganggapnya sebagai itik, meskipun secara teknis hal tersebut mungkin bukan itik sebenarnya.
+
+Dalam konteks yang lebih luas, Uji Itik digunakan untuk menyampaikan bahwa ketika kita melihat suatu hal atau situasi, kita dapat mendasarkan penilaian kita pada ciri-ciri yang nyata dan tindakannya yang konsisten. Jika suatu hal menunjukkan ciri-ciri yang mirip dengan sesuatu yang sudah kita kenal, kita bisa mengasumsikan bahwa itu adalah hal yang sama atau serupa.
+
+Dalam contoh yang diberikan, penutur mengatakan bahwa ketika berpikir tentang kebijakan publik, mereka menggunakan Uji Itik untuk menyimpulkan bahwa jika suatu kebijakan memiliki karakteristik yang serupa dengan kebijakan sebelumnya yang terbukti efektif atau tidak efektif, maka kebijakan tersebut mungkin akan memberikan hasil yang serupa.
+
+Dengan demikian, Uji Itik adalah sebuah prinsip sederhana yang mengajarkan kita untuk mengenali suatu objek atau situasi berdasarkan ciri-ciri dan tindakannya yang khas.

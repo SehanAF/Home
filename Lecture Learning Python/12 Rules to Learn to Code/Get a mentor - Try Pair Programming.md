@@ -1,0 +1,19 @@
+Ketika saya sedang belajar bahasa Prancis, saya menemukan metode yang menghasilkan kemajuan terbesar dalam kemampuan berbicara saya. Metode tersebut adalah melakukan pertukaran bahasa melalui Skype. Saya akan berpasangan dengan penutur asli bahasa Prancis yang ingin belajar bahasa Inggris. Kami akan menghabiskan setengah jam berbicara dalam bahasa Prancis dan setengah jam berbicara dalam bahasa Inggris. Kami berdua akan mengabdikan satu jam setiap minggunya untuk meningkatkan bahasa yang kami coba pelajari.
+
+Selama kami melakukan percakapan dalam bahasa Prancis, dia akan memperbaiki pengucapan atau tata bahasa saya dan menyarankan cara-cara agar kalimat-kalimat saya terdengar lebih alami. 
+
+Pair programming adalah teknik pengembangan perangkat lunak yang didasarkan pada prinsip yang sangat mirip. Misalnya, seorang pembelajar dan seorang mentor akan duduk di tempat kerja yang sama dan bekerja pada suatu masalah. Pembelajar bertanggung jawab menulis kode dan mentor akan meninjau kode tersebut baris per baris seiring penulisannya.
+
+Pada awalnya mungkin terasa tidak nyaman karena agak memalukan membuat kesalahan dan diperhatikan oleh mentor. Namun, jika Anda memiliki seorang mentor yang menjadi guru yang baik, maka mereka akan memberikan kebijaksanaan yang terkumpul selama puluhan tahun yang dapat menghasilkan peningkatan besar dalam kemampuan Anda, hanya dalam beberapa jam.
+
+Anda akan bisa menggali pengetahuan seseorang yang telah mengasah keterampilannya, menemukan cara-cara efisien dalam melakukan hal-hal, dan menunjukkan kepada Anda bagaimana mereka memprogram dan memecahkan masalah.
+
+Mentor yang baik tidak akan langsung menyelesaikan masalah Anda, melainkan mereka menerapkan metode Sokrates dengan mengajukan pertanyaan-pertanyaan yang baik sehingga membuat Anda berpikir sendiri. Jika Anda bertanya kepada saya bagaimana menulis panggilan jaringan, tentu saja, saya bisa langsung mengetikkan semuanya dan membuat Anda menyalinnya. Tetapi itu tidak akan membantu Anda. Sebaliknya, jika Anda menunjukkan kepada saya bagaimana Anda memapproksimasi masalah tersebut dan saya menunjukkan kepada Anda bagaimana saya memapproksimasi masalah tersebut, Anda dapat belajar jauh lebih banyak daripada hanya mengikuti resep.
+
+Ketika Anda menghadapi masalah yang berbeda di lain waktu, Anda dapat menerapkan pendekatan yang sama dan mulai memecahkannya sendiri. Selalu ingat bahwa informasi itu mudah ditemukan. Seabad yang lalu, jika saya ingin mempelajari penyebab penyakit, saya mungkin harus menjadi seorang bangsawan, atau menebang kayu dan mengangkut air untuk seorang ahli dan menjadi muridnya. Saat ini saya dapat mencari di Google dan mendapatkan jawaban dalam beberapa detik.
+
+Jadi jangan terlalu terpaku pada informasi. Belajarlah untuk berpikir. Bagaimana memapproksimasi suatu masalah. Bagaimana memecah masalah tersebut. Bagaimana merangkai masalah tersebut. Keterampilan-keterampilan ini akan membawa Anda jauh lebih jauh daripada sekadar menghafal dan mengulang.
+
+Namun, di mana Anda bisa menemukan seorang mentor?
+
+Ada pertemuan-pertemuan terkait pemrograman yang diadakan hampir di setiap kota di dunia. Kunjungi www.meetup.com dan cari acara yang terkait dengan bahasa pemrograman yang ingin Anda pelajari. Hadiri pertemuan tersebut, kenali orang-orang. Tukar keahlian Anda dengan keahlian mereka. Mungkin ada seseorang yang membutuhkan akuntan, mungkin ada seseorang yang membutuhkan saran hukum. Tukar waktu Anda dengan waktu mereka. Jangan langsung meminta seseorang, "Apakah Anda bisa menjadi mentor saya?". Tidak ada yang ingin membuang-buang waktu mereka secara percuma alih-alih meminta waktu dari orang asing, tawarkanlah bantuan Anda sebagai imbalan atas bantuan mereka, dan Anda akan berhasil menemukan seorang mentor sebanyak 95% dari waktu.

@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 10,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbWebsiteWithImage",
+      "SiInformatica",
+      "IbMoneyNote",
+      "FasRobot",
+      "SiYoutube"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Lecture Learning Python": "SiPython",
+  "Lecture Ethical Hacking": "SiHackaday",
+  "Lecture Learning English": "TiLanguage",
+  "Lecture Davinci Resolve": "LiVideo",
+  "Lecture Computer Science": "RiComputerFill",
+  "Lecture Computer Networking": "LiNetwork",
+  "Lecture College Algebra - Full Course": "TiMath",
+  "Lecture Blockchain and Money": "SiHiveBlockchain",
+  "Lecture Algorithms and Data Structures Tutorial - Full Course for Beginners": "SiThealgorithms",
+  "Learning From YouTube": "SiYoutube",
+  "Lecture Machine Learning": "FasRobot",
+  "Lecture Microeconomics": "IbMoneyNote",
+  "Lecture Teknik Informatika": "SiInformatica",
+  "Lecture Web Development": "IbWebsiteWithImage"
+}

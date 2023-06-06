@@ -1,0 +1,1 @@
+⌨️ ([1:22:32](https://www.youtube.com/watch?v=qiQR5rTSshw&t=4952s)) Network Cabling (part 1) ⌨️ ([1:31:24](https://www.youtube.com/watch?v=qiQR5rTSshw&t=5484s)) Network Cabling (part 2) ⌨️ ([1:38:15](https://www.youtube.com/watch?v=qiQR5rTSshw&t=5895s)) Network Cabling (part 3)

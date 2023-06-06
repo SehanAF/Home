@@ -1,0 +1,11 @@
+# Non-Plenum Twisted Pair: Kabel yang Digunakan di Ruangan Riser
+
+Non-plenum twisted pair (atau kabel riser) adalah jenis kabel yang digunakan untuk pemasangan di dalam ruangan riser atau jalur vertikal di gedung. Ruangan riser adalah ruang yang digunakan untuk menyalurkan kabel melalui jalur vertikal, seperti melalui lantai bangunan. Kabel non-plenum umumnya tidak memiliki perlindungan yang sama seperti kabel plenum terhadap bahaya kebakaran dan asap.
+
+Perbedaan utama antara kabel non-plenum dengan kabel plenum terletak pada bahan pembuatannya. Kabel non-plenum umumnya terbuat dari bahan yang tidak memiliki sifat tahan terhadap kebakaran seperti kabel plenum. Oleh karena itu, kabel non-plenum memiliki risiko yang lebih tinggi terhadap bahaya kebakaran dan penyebaran asap di dalam ruangan.
+
+Penggunaan kabel non-plenum disarankan di ruangan riser atau jalur vertikal di gedung yang tidak mengandung udara plenum. Kabel ini sering digunakan dalam instalasi jaringan komunikasi, seperti jaringan data atau telekomunikasi. Namun, karena kabel non-plenum tidak memiliki perlindungan tambahan terhadap kebakaran, perlu diperhatikan penggunaannya dengan bijak sesuai dengan peraturan kebakaran yang berlaku.
+
+Kabel non-plenum umumnya lebih terjangkau dibandingkan dengan kabel plenum, sehingga dapat menjadi pilihan yang lebih ekonomis dalam instalasi jaringan di ruangan riser atau jalur vertikal. Namun, penting untuk selalu mempertimbangkan faktor keamanan saat memilih kabel yang sesuai dengan lingkungan instalasi.
+
+Jadi, inti dari non-plenum twisted pair adalah bahwa kabel ini digunakan di ruangan riser atau jalur vertikal di gedung. Kabel non-plenum tidak memiliki perlindungan yang sama seperti kabel plenum terhadap bahaya kebakaran dan asap. Penggunaannya disarankan di ruangan yang tidak mengandung udara plenum dan perlu diperhatikan sesuai dengan peraturan kebakaran yang berlaku. Kabel non-plenum umumnya lebih terjangkau dibandingkan dengan kabel plenum, tetapi penting untuk mempertimbangkan faktor keamanan dalam pemilihan kabel.

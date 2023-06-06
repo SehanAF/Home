@@ -1,0 +1,5 @@
+Ada beberapa jenis VPN yang berbeda, yaitu VPN site-to-site, yang memungkinkan jaringan situs jarak jauh untuk terhubung ke jaringan situs utama dan dilihat sebagai segmen jaringan lokal. Konsentrator VPN di kedua ujung VPN akan mengelola koneksi tersebut.
+
+Lalu ada VPN Remote access, yang juga disebut VPN host to site. VPN ini memungkinkan pengguna jarak jauh tertentu untuk terhubung ke jaringan lokal. Konsentrator VPN pada jaringan lokal akan mengelola koneksi yang masuk dari pengguna jarak jauh. Sistem jarak jauh yang membuat koneksi menggunakan perangkat lunak khusus yang disebut perangkat lunak klien VPN untuk membuat koneksi tersebut.
+
+Jenis VPN ketiga adalah host of host VPN, yang sering disebut SSL VPN. VPN ini memungkinkan kita melakukan koneksi yang aman antara dua sistem tanpa menggunakan perangkat lunak klien VPN. Konsentrator VPN pada jaringan lokal mengelola koneksi. Host yang ingin tersambung menggunakan peramban web yang mendukung teknologi enkripsi yang tepat, yang bisa berupa SSL atau TLS.

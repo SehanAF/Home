@@ -1,0 +1,7 @@
+Internet adalah jaringan komputer global yang terhubung secara bersama-sama menggunakan protokol internet. Jaringan ini terdiri dari jutaan perangkat yang saling terhubung di seluruh dunia, termasuk komputer, ponsel, dan perangkat lainnya yang dapat terhubung ke internet.
+
+Sejarah internet dimulai pada tahun 1960-an saat Departemen Pertahanan Amerika Serikat mengembangkan jaringan komputer yang dikenal sebagai ARPANET untuk tujuan penelitian dan pertahanan. Pada tahun 1980-an, ARPANET berkembang menjadi jaringan yang lebih besar dan mulai terbuka untuk penggunaan umum. Kemudian, pada tahun 1990-an, internet semakin populer dengan diperkenalkannya World Wide Web, protokol HTTP, dan peramban web.
+
+Internet menyediakan banyak manfaat bagi penggunanya, termasuk kemampuan untuk mengakses informasi dari seluruh dunia, berkomunikasi dengan orang di seluruh dunia, membeli dan menjual produk dan layanan secara online, serta mengakses berbagai jenis hiburan. Namun, internet juga memiliki risiko dan tantangan, termasuk masalah privasi, keamanan, dan penggunaan yang tidak tepat.
+
+Penggunaan internet terus berkembang dengan pesat, baik dalam jumlah pengguna maupun dalam jumlah perangkat yang terhubung. Hal ini mendorong terus berkembangnya teknologi internet dan aplikasi-aplikasi baru yang memungkinkan pengguna untuk berinteraksi dengan internet dengan lebih mudah dan efisien.

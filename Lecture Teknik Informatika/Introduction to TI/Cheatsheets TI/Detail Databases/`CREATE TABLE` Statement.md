@@ -1,0 +1,7 @@
+Pernyataan `CREATE TABLE` adalah salah satu perintah dasar dalam SQL (Structured Query Language) yang digunakan untuk membuat tabel dalam database. Dengan menggunakan perintah ini, pengguna dapat membuat tabel baru dalam database dan menentukan nama tabel serta kolom dan tipe data yang akan digunakan.
+
+Pernyataan `CREATE TABLE` telah menjadi bagian penting dalam teknologi database dan telah digunakan sejak awal pengembangan database. Pada awalnya, database dikembangkan untuk mengelola informasi yang disimpan dalam file teks atau file spreadsheet, tetapi kemudian digunakan untuk mengelola data dalam format tabel yang dapat diakses melalui perintah SQL.
+
+Dalam beberapa tahun terakhir, penggunaan teknologi database terus berkembang dengan cepat, dan perintah `CREATE TABLE` menjadi semakin penting dalam pembuatan database modern. Seiring dengan meningkatnya kompleksitas database dan tuntutan bisnis yang semakin besar, penting bagi pengembang dan administrator database untuk memahami cara menggunakan pernyataan `CREATE TABLE` dengan benar dan mempertimbangkan batasan kolom dan keamanan data saat membuat tabel baru.
+
+Dalam membuat tabel baru dengan perintah `CREATE TABLE`, pengguna harus memperhatikan beberapa hal penting seperti menentukan nama tabel, kolom, tipe data, dan constraint yang diperlukan. Hal ini penting untuk memastikan konsistensi dan keamanan data dalam database. Dengan memahami perintah `CREATE TABLE`, pengguna dapat membuat tabel baru dalam database dengan mudah dan efisien.

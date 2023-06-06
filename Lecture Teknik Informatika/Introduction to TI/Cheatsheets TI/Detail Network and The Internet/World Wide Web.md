@@ -1,0 +1,7 @@
+World Wide Web atau yang juga dikenal sebagai WWW, adalah sistem informasi yang memungkinkan dokumen-dokumen yang saling terhubung dan terdistribusi di seluruh dunia dapat diakses melalui internet. Dalam sistem WWW, dokumen-dokumen tersebut disebut sebagai halaman web atau web page.
+
+Sejarah World Wide Web dimulai pada tahun 1989 ketika seorang ilmuwan komputer bernama Tim Berners-Lee menciptakan konsep untuk menghubungkan dokumen-dokumen yang saling terhubung dalam suatu jaringan global yang dikenal sebagai internet. Pada tahun 1991, Berners-Lee merilis protokol HTTP dan bahasa markup HTML yang membentuk dasar dari World Wide Web.
+
+Dalam sistem WWW, pengguna dapat mengakses halaman web dengan menggunakan peramban web seperti Google Chrome, Mozilla Firefox, atau Safari. Halaman web ini dapat berisi teks, gambar, audio, video, dan elemen-elemen lainnya yang dapat diakses melalui tautan-tautan atau hyperlink.
+
+World Wide Web memberikan banyak manfaat bagi penggunanya, termasuk kemampuan untuk mengakses informasi dengan cepat dan mudah, berkomunikasi dengan orang di seluruh dunia, membeli dan menjual produk dan layanan secara online, serta mengakses berbagai jenis hiburan. Namun, penggunaan World Wide Web juga memiliki risiko dan tantangan, termasuk masalah privasi, keamanan, dan informasi yang tidak akurat atau tidak sahih.
