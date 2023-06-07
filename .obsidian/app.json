@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Lecture Teknik Informatika/Introduction to TI"
+  "userIgnoreFilters": [
+    "https://github.com/SehanAF/Home"
+  ]
 }

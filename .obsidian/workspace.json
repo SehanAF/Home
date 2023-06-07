@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
+                "file": "Lecture Computer Science/CS50 Harvard/Week 4 Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c7ecb1ca685d79ad",
+            "id": "ef3d35f59e69e6e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Computer Networking/Network Cabling III.md",
+                "file": "File baru 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5110321044922
+    "width": 301.5110321044922
   },
   "right": {
     "id": "81ec2a65f77606c2",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Computer Networking/Network Cabling III.md",
+                "file": "File baru 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Computer Networking/Network Cabling III.md",
+                "file": "File baru 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Computer Networking/Network Cabling III.md"
+                "file": "File baru 2.md"
               }
             }
           },
@@ -182,26 +182,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "ava:Ava": false,
-      "ava:Ava - Show Links": false,
-      "ava:Ava - Open Rewrite Playground": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "560f7afa2198be80",
+  "active": "ef3d35f59e69e6e0",
   "lastOpenFiles": [
-    "File Baru.md",
+    "Lecture Computer Science/CS50 Harvard/Week 4 Memory.md",
+    "File baru 2.md",
+    "Lecture Computer Science/CS50 Harvard/Week 3 Algoritma.md",
+    "Lecture Computer Science/CS50 Harvard/Week 2 Array.md",
+    "Lecture Computer Networking/Network Cabling I.md",
+    "Lecture Computer Science/CS50 Harvard",
+    "Lecture Computer Networking/WAN Technologies III.md",
+    "Lecture Computer Networking/WAN Technologies II.md",
     "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
+    "Lecture Computer Networking/WAN Tecnologies I.md",
+    "File Baru.md",
+    "Lecture Computer Networking/Network Cabling III.md",
     "Lecture College Algebra - Full Course/1. Exponent Rules.md",
     "Lecture College Algebra - Full Course/Detail/⭐️ Course Contents ⭐️.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
     "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intros.pdf",
     "Lecture Blockchain and Money/Week 2/2. Money, Ledgers & Bitcoin.md",
     "Lecture Blockchain and Money/Week 2/Detail/Lecture Slides.md",
-    "Untitled.md",
     "Lecture Computer Networking/Detail Network Device/Non-Plenum.md",
     "Ava - Getting Started.md",
     "picture.jpg.md",
@@ -224,21 +230,12 @@
     "Lecture Teknik Informatika/Mindmap Pengantar Teknologi Informasi.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail",
     "Lecture Learning Python/Python for Everybody - Full University Python Course",
-    "Lecture Computer Networking/Detail Network Device/Plenum.md",
-    "Day Planners/Day Planner-20230606.md",
-    "Day Planners/Day Planner-20230603.md",
-    "Day Planners/Day Planner-20230604.md",
-    "Day Planners/Day Planner-20230605.md",
     "Lecture Learning Python",
-    "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
-    "Simplifying using Exponent Rules.md",
-    "Lecture Learning English/Jadwal/1. Monday are for Reading.md",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605105029.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104947.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104628.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104528.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104134.png",
-    "Lecture Teknik Informatika/Introduction to TI/classNotes_m110_2018F.pdf",
-    "Lecture College Algebra - Full Course/Detail"
+    "Lecture Teknik Informatika/Introduction to TI/classNotes_m110_2018F.pdf"
   ]
 }
