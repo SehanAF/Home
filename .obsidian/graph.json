@@ -8,65 +8,79 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Computer Basics",
+      "query": "path:\"Lecture Computer Networking\"",
       "color": {
         "a": 1,
-        "rgb": 16318721
+        "rgb": 16711680
       }
     },
     {
-      "query": "Cybersecurity",
+      "query": "path:\"Lecture Ethical Hacking\"",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16755200
       }
     },
     {
-      "query": "Networks and The Internet",
+      "query": "path:\"Lecture Machine Learning\"",
       "color": {
         "a": 1,
-        "rgb": 10095609
+        "rgb": 11337477
       }
     },
     {
-      "query": "Operating System and Applications",
+      "query": "path:\"Lecture Teknik Informatika\"",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16711914
       }
     },
     {
-      "query": "Introduction to network Device",
+      "query": "path:\"Learning From YouTube\"",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 65450
       }
     },
     {
-      "query": "file:Cybersecurity",
+      "query": "path:\"Lecture Learning Python\"",
       "color": {
         "a": 1,
-        "rgb": 1381713
+        "rgb": 699903
       }
     },
     {
-      "query": "",
+      "query": "path:\"Lecture Web Development\"",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 11403519
+      }
+    },
+    {
+      "query": "path:\"Lecture Computer Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 16731392
+      }
+    },
+    {
+      "query": "path:\"Lecture College Algebra - Full Course\"",
+      "color": {
+        "a": 1,
+        "rgb": 1769642
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.24573058411076,
+  "lineSizeMultiplier": 1.09665458434845,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.597896488204884,
+  "repelStrength": 9.29585833977063,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.081466063584909,
+  "linkDistance": 190,
+  "scale": 0.7478537827650129,
   "close": true
 }

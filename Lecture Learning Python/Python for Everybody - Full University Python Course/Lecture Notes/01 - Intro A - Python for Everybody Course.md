@@ -1,4 +1,3 @@
-
 # ⭐️ Course Contents ⭐️
 
 ⌨️ ([0:00:00](https://www.youtube.com/watch?v=8DvywoWv6fI&t=0s)) Why Program? 
@@ -6,7 +5,7 @@
 ⌨️ ([0:24:24](https://www.youtube.com/watch?v=8DvywoWv6fI&t=1464s)) Python 3 Windows Installation 
 ⌨️ ([0:32:34](https://www.youtube.com/watch?v=8DvywoWv6fI&t=1954s)) Python 3 Mac Installation
 ⌨️ ([0:36:41](https://www.youtube.com/watch?v=8DvywoWv6fI&t=2201s)) Why Program? - Python as a Language
-⌨️ ([0:44:17](https://www.youtube.com/watch?v=8DvywoWv6fI&t=2657s)) Why Program? - What do we say? 
+⌨️ ([0:44:17](https://www.youtube.com/watch?v=8DvywoWv6fI&t=2657s)) Why Program? - What do we say?
 
 # Slides
 
@@ -51,6 +50,7 @@ Mempelajari pemrograman seperti mempelajari bahasa baru. Kami memberikan instruk
 - Hardware architecture adalah topik yang penting karena kita dapat menggunakan kata-kata yang terkait saat berbicara tentang komputer. Pada dasarnya, hardware architecture membahas tentang struktur dan komponen-komponen yang terdapat dalam sebuah komputer.
 
 - Raspberry Pi adalah sebuah papan komputer kecil yang menunjukkan arsitektur dasar komputer. Raspberry Pi ini merupakan komputer dalam bentuk papan tunggal yang cukup kecil. Seiring dengan perkembangan teknologi, komputer semakin kecil dan kompak.
+	![[Pasted image 20230608062828.png]]
 
 - Komponen penting dalam sebuah komputer adalah central processing unit (CPU) yang bertugas menjalankan instruksi-instruksi, serta main memory yang berfungsi menyimpan instruksi-instruksi tersebut. CPU adalah otak dari komputer yang bertanya, "Apa yang harus saya lakukan selanjutnya?" Instruksi-instruksi yang diberikan kepada CPU disimpan dalam main memory.
 
@@ -86,3 +86,68 @@ Mempelajari pemrograman seperti mempelajari bahasa baru. Kami memberikan instruk
 - Video-video di YouTube dapat memberikan pemahaman yang lebih jelas tentang CPU dan hard disk.
 
 Hardware architecture sangat penting dalam pemahaman tentang bagaimana komputer bekerja dan berinteraksi dengan pengguna. Dengan pemahaman yang baik tentang komponen-komponen dan fungsi-fungsinya, kita dapat mengoptimalkan penggunaan komputer dalam berbagai bidang, termasuk pemrograman, desain, dan pengembangan teknologi.
+
+# [Python as a Language](https://www.youtube.com/watch?v=8DvywoWv6fI&t=2201s)
+## Python, Bahasa Pemrograman yang Mudah Dipelajari dan Kuat
+
+- Charles Severance adalah seorang pengajar di University of Michigan School of Information yang mengajar bahasa pemrograman Python. Dia memperkenalkan Python sebagai bahasa pemrograman yang digunakan di dalam kursusnya.
+- Python bukanlah nama yang terinspirasi oleh Harry Potter, tetapi berasal dari Monty Python's Flying Circus, sebuah acara komedi yang populer di Inggris pada tahun 1960-an dan 1970-an. Guido van Rossum, pencipta Python, mengambil nama tersebut karena ingin menciptakan bahasa pemrograman yang kuat namun juga menyenangkan.
+- Python adalah bahasa pemrograman yang mudah dipelajari dan kuat. Karena sintaksisnya yang sederhana dan jelas, Python menjadi pilihan yang baik bagi pemula dalam mempelajari pemrograman. Selain itu, Python juga memiliki banyak pustaka dan modul yang memperluas kemampuannya dalam berbagai bidang, seperti pengembangan web, kecerdasan buatan, analisis data, dan lain-lain.
+
+## Syntax Error, Teman Saat Belajar Python
+
+- Syntax error adalah jenis kesalahan yang sering terjadi saat menulis kode Python. Kesalahan ini muncul ketika Python tidak dapat memahami sintaksis yang Anda gunakan.
+- Penting untuk diingat bahwa syntax error bukanlah penilaian tentang kemampuan Anda sebagai programmer. Sebaliknya, itu adalah cara Python mengindikasikan bahwa ada kesalahan dalam penulisan kode Anda.
+- Saat Anda menemui syntax error, jangan berkecil hati. Jadikan kesalahan tersebut sebagai kesempatan untuk belajar dan memperbaiki kode Anda. Python ingin membantu Anda memahami kesalahan yang terjadi dan memberikan petunjuk untuk memperbaikinya.
+
+## Berbicara dengan Python
+
+- Anda dapat berinteraksi dengan Python melalui interpreter, yang memungkinkan Anda mengetikkan perintah Python secara langsung dan melihat hasilnya secara instan.
+- Dengan interpreter, Anda dapat melakukan percobaan dan bereksperimen dengan kode Python. Anda dapat menjalankan perintah-perintah sederhana, seperti assignment untuk menyimpan nilai dalam variabel, print untuk menampilkan nilai, dan quit untuk keluar dari interpreter.
+- Menggunakan interpreter adalah cara yang baik untuk mempelajari bahasa Python secara interaktif dan melihat hasilnya secara langsung. Anda dapat melihat bagaimana kode Anda berperilaku dan memahami konsep-konsep dasar pemrograman dengan lebih baik.
+
+## Poin Utama:
+
+- Python adalah bahasa pemrograman yang mudah dipelajari dan kuat dalam menjalankan tugas pemrograman.
+- Syntax error adalah kesalahan yang umum terjadi saat menulis kode Python dan bukan penilaian terhadap kemampuan Anda sebagai programmer.
+- Anda dapat berinteraksi dengan Python melalui interpreter, yang memungkinkan Anda menjalankan perintah-perintah sederhana dan melihat hasilnya secara instan.
+
+# [What do we say?](https://www.youtube.com/watch?v=8DvywoWv6fI&t=2657s)
+## Mengenal Bahasa Python: Memulai dengan Kosakata Dasar
+
+- Dalam Bahasa Python, kita akan memulai dengan mempelajari kosakata dasar.
+- Bahasa Python mirip dengan menulis cerita, dimulai dengan kalimat dan kemudian digabungkan menjadi paragraf yang koheren.
+- Meskipun pada awalnya mungkin terasa membingungkan, teruslah belajar dan bersabar.
+- Kami akan mulai dengan mempelajari kosakata dasar, membuat kalimat, dan akhirnya membentuk paragraf.
+
+## Kata-Kata yang Direservasi dalam Python
+
+- Kata-kata yang direservasi dalam Python adalah kata-kata yang memiliki makna tertentu dalam bahasa Python.
+- Kata-kata ini hanya boleh digunakan sesuai dengan maksud yang dimaksudkan oleh Python.
+- Contohnya, saat Anda menggunakan kata "class" dalam Python, Python mengenali dan memahami makna kata tersebut.
+- Beberapa kata di antaranya adalah "and", "or", "del", "if", "pass", dan "in".
+- Kata-kata ini merupakan bagian dari kosakata Python.
+
+## Kalimat dan Pernyataan dalam Python
+
+- Program Python terdiri dari serangkaian pernyataan yang dilakukan secara berurutan.
+- Setiap pernyataan dijalankan satu per satu sesuai dengan urutan yang ditentukan.
+- Misalnya, pernyataan "x = 2" adalah pernyataan penugasan yang menyimpan nilai 2 ke dalam variabel x.
+- Perintah "print(x)" digunakan untuk mencetak nilai dari variabel x.
+- Ada juga kata khusus seperti "if" yang memungkinkan kita untuk membuat pernyataan bersyarat.
+- Dalam Python, kita dapat menggabungkan kata-kata dan pernyataan ini untuk membentuk program yang lebih kompleks.
+
+## Pola Berulang dalam Python
+
+- Dalam Python, kita juga dapat menggunakan pola berulang untuk melakukan tugas yang berulang.
+- Pola ini berguna ketika kita ingin melakukan sesuatu berulang kali hingga kondisi tertentu tercapai.
+- Kita dapat menggunakan pernyataan "while" untuk membuat perulangan yang berjalan selama kondisi tertentu terpenuhi.
+- Misalnya, kita dapat menggunakan pernyataan "while n > 0" untuk melakukan suatu tugas selama nilai n masih lebih besar dari 0.
+- Pola ini memungkinkan komputer untuk melakukan tugas-tugas yang berulang dengan lebih efisien daripada manusia.
+
+## Ringkasan:
+
+- Bahasa Python mirip dengan menulis cerita. Kita mulai dengan kosakata dasar, membuat kalimat, dan kemudian membentuk paragraf.
+- Ada kata-kata yang direservasi dalam Python yang memiliki makna khusus yang diharapkan oleh Python.
+- Program Python terdiri dari pernyataan yang dieksekusi secara berurutan, dengan kemampuan untuk menggunakan pernyataan bersyarat.
+- Pola berulang memungkinkan kita untuk melakukan tugas berulang kali hingga kondisi tertentu tercapai.

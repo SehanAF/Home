@@ -1,5 +1,6 @@
 {
   "userIgnoreFilters": [
     "https://github.com/SehanAF/Home"
-  ]
+  ],
+  "promptDelete": false
 }

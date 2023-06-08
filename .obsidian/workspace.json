@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "08c77524d0c7b353",
+        "id": "707b56a0420b4598",
         "type": "tabs",
         "children": [
           {
-            "id": "65b2f5ba67050dc9",
+            "id": "824e506cb2003003",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Computer Science/CS50 Harvard/Week 4 Memory.md",
+                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef3d35f59e69e6e0",
+            "id": "1554f0a77b19dfa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File baru 2.md",
+                "file": "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -42,19 +41,10 @@
     "type": "split",
     "children": [
       {
-        "id": "961724dd71e7e57a",
+        "id": "dfa28b0d33c731ad",
         "type": "tabs",
+        "dimension": 22.831050228310502,
         "children": [
-          {
-            "id": "560f7afa2198be80",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
           {
             "id": "f69645b5d1eeae72",
             "type": "leaf",
@@ -67,6 +57,23 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "961724dd71e7e57a",
+        "type": "tabs",
+        "dimension": 77.1689497716895,
+        "children": [
+          {
+            "id": "560f7afa2198be80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -90,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5110321044922
+    "width": 297.5
   },
   "right": {
     "id": "81ec2a65f77606c2",
@@ -106,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File baru 2.md",
+                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File baru 2.md",
+                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "File baru 2.md"
+                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md"
               }
             }
           },
@@ -188,54 +195,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ef3d35f59e69e6e0",
+  "active": "f69645b5d1eeae72",
   "lastOpenFiles": [
-    "Lecture Computer Science/CS50 Harvard/Week 4 Memory.md",
-    "File baru 2.md",
-    "Lecture Computer Science/CS50 Harvard/Week 3 Algoritma.md",
-    "Lecture Computer Science/CS50 Harvard/Week 2 Array.md",
-    "Lecture Computer Networking/Network Cabling I.md",
-    "Lecture Computer Science/CS50 Harvard",
-    "Lecture Computer Networking/WAN Technologies III.md",
-    "Lecture Computer Networking/WAN Technologies II.md",
+    "Rangkuman Konsep Kilat Persamaan Lingkaran - 1.pdf",
+    "Rangkuman Konsep Kilat Vektor - 1.pdf",
+    "Rangkuman Konsep Kilat Matriks - 1.pdf",
+    "Rangkuman Konsep Kilat Polinomial - 10.pdf",
+    "Rangkuman Konsep Kilat Fungsi Komposisi dan Invers - 2.pdf",
+    "Rangkuman Konsep Kilat Eksponen dan Logaritma - 19.pdf",
+    "Rangkuman Konsep Kilat Barisan dan Deret - 6.pdf",
+    "Rangkuman Konsep Kilat Sistem Persamaan dan Pertidaksamaan.pdf",
+    "Lecture College Algebra - Full Course/Tips for Math/Tips untuk Aljabar Linier.md",
     "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
-    "Lecture Computer Networking/WAN Tecnologies I.md",
-    "File Baru.md",
-    "Lecture Computer Networking/Network Cabling III.md",
-    "Lecture College Algebra - Full Course/1. Exponent Rules.md",
-    "Lecture College Algebra - Full Course/Detail/⭐️ Course Contents ⭐️.md",
+    "Lecture College Algebra - Full Course/Tips for Math",
+    "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
+    "Pasted image 20230608141838.png",
+    "Pasted image 20230608140814.png",
+    "Pasted image 20230608140653.png",
+    "Pasted image 20230608140456.png",
+    "Pasted image 20230608140218.png",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/02 - Variables, Expressions, and Statements.md",
+    "Pythonlearn-02-Expressions2.pdf",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
-    "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intros.pdf",
-    "Lecture Blockchain and Money/Week 2/2. Money, Ledgers & Bitcoin.md",
-    "Lecture Blockchain and Money/Week 2/Detail/Lecture Slides.md",
-    "Lecture Computer Networking/Detail Network Device/Non-Plenum.md",
-    "Ava - Getting Started.md",
-    "picture.jpg.md",
-    "image.png.md",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606191331.png",
-    "Note.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail/Course Content.md",
-    "Lecture Blockchain and Money/Week 3/3. Blockchain Basics & Cryptography.md",
-    "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intro 2.pptx",
-    "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intro 1.pptx",
+    "Lecture Learning Python/12 Rules to Learn to Code/Break someone else's code.md",
+    "Lecture Learning Python/12 Rules to Learn to Code/Get into the Habit of Chunking.md",
+    "Lecture Learning Python/12 Rules to Learn to Code/Trick Your Brain with the 20min Rule.md",
+    "Lecture Learning Python/12 Rules to Learn to Code/There is no 'perfect language to learn'.md",
+    "Lecture Learning Python/12 Rules to Learn to Code/Code for a Puroise, Have a project.md",
+    "Lecture Learning Python/100 Days of Code, The Complete Python Pro Bootcamp for 2023/Day 3/31. Nested if statements and elif statements.md",
+    "Lecture Learning Python/100 Days of Code, The Complete Python Pro Bootcamp for 2023/Day 3/29. Control Flow with if, else and Conditional Operators.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/Untitled.md",
+    "Pasted image 20230608062828.png",
+    "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intros.pdf",
+    "Lecture Learning English/Jadwal/4. Thursday are for Speakings.md",
+    "Lecture Computer Networking/Introduction to the DNS Service.md",
+    "⭐️ Course Contents ⭐️.md",
+    "Hardware Architecture(httpswww.youtube.comwatchv=8DvywoWv6fI&t=741s).md",
+    "Slides.md",
+    "Python untuk Semua Orang Pengantar Pemrograman(httpswww.youtube.comwatchv=8DvywoWv6fI&t=0s).md",
+    "Python untuk Semua Orang Pengantar Pemrograman.md",
+    "httpswww.youtube.comwatchv=8DvywoWv6fI&t=741s.md",
+    "httpswww.youtube.comwatchv=8DvywoWv6fI&t=0s.md",
+    "Learning From YouTube/Tips/7 Ways to Make a Conversation With Anyone, Malavika Varadan, TEDxBITSPilaniDubai.md",
+    "Learning From YouTube/Tips/Body Language Expert Explains How to Show Confidence, WIRED.md",
+    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606191331.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606135258.png",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606134824.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intro.pptx",
     "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606134552.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606134444.png",
-    "Lecture Learning English/Jadwal/4. Thursday are for Speakings.md",
-    "Lecture College Algebra - Full Course/Untitled.canvas",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Untitled.md",
-    "Lecture Teknik Informatika/Mindmap Pengantar Teknologi Informasi.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course",
-    "Lecture Learning Python",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605105029.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104947.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104628.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104528.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230605104134.png",
-    "Lecture Teknik Informatika/Introduction to TI/classNotes_m110_2018F.pdf"
+    "Lecture College Algebra - Full Course/Untitled.canvas"
   ]
 }

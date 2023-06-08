@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCalendarDay",
       "IbWebsiteWithImage",
       "SiInformatica",
       "IbMoneyNote",
-      "FasRobot",
-      "SiYoutube"
+      "FasRobot"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Lecture Machine Learning": "FasRobot",
   "Lecture Microeconomics": "IbMoneyNote",
   "Lecture Teknik Informatika": "SiInformatica",
-  "Lecture Web Development": "IbWebsiteWithImage"
+  "Lecture Web Development": "IbWebsiteWithImage",
+  "Day Planners": "FasCalendarDay"
 }

@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "baseFontSize": 14
 }

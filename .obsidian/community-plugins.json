@@ -9,5 +9,7 @@
   "quickadd",
   "tag-wrangler",
   "obsidian-spaced-repetition",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "cm-editor-syntax-highlight-obsidian",
+  "note-refactor-obsidian"
 ]
