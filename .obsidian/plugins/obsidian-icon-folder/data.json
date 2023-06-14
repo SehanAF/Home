@@ -26,7 +26,6 @@
   "Lecture Ethical Hacking": "SiHackaday",
   "Lecture Learning English": "TiLanguage",
   "Lecture Davinci Resolve": "LiVideo",
-  "Lecture Computer Science": "RiComputerFill",
   "Lecture Computer Networking": "LiNetwork",
   "Lecture College Algebra - Full Course": "TiMath",
   "Lecture Blockchain and Money": "SiHiveBlockchain",
@@ -36,5 +35,5 @@
   "Lecture Microeconomics": "IbMoneyNote",
   "Lecture Teknik Informatika": "SiInformatica",
   "Lecture Web Development": "IbWebsiteWithImage",
-  "Day Planners": "FasCalendarDay"
+  "Lecture Computer Networking/Lecture Computer Science": "RiComputerFill"
 }

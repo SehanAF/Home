@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "707b56a0420b4598",
+        "id": "6b56ead90869d7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "824e506cb2003003",
+            "id": "902e65265bb73962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1554f0a77b19dfa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -43,7 +27,7 @@
       {
         "id": "dfa28b0d33c731ad",
         "type": "tabs",
-        "dimension": 22.831050228310502,
+        "dimension": 50.91324200913242,
         "children": [
           {
             "id": "f69645b5d1eeae72",
@@ -65,7 +49,7 @@
       {
         "id": "961724dd71e7e57a",
         "type": "tabs",
-        "dimension": 77.1689497716895,
+        "dimension": 49.08675799086758,
         "children": [
           {
             "id": "560f7afa2198be80",
@@ -97,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "81ec2a65f77606c2",
@@ -114,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,57 +172,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f69645b5d1eeae72",
   "lastOpenFiles": [
-    "Rangkuman Konsep Kilat Persamaan Lingkaran - 1.pdf",
-    "Rangkuman Konsep Kilat Vektor - 1.pdf",
-    "Rangkuman Konsep Kilat Matriks - 1.pdf",
-    "Rangkuman Konsep Kilat Polinomial - 10.pdf",
-    "Rangkuman Konsep Kilat Fungsi Komposisi dan Invers - 2.pdf",
-    "Rangkuman Konsep Kilat Eksponen dan Logaritma - 19.pdf",
-    "Rangkuman Konsep Kilat Barisan dan Deret - 6.pdf",
-    "Rangkuman Konsep Kilat Sistem Persamaan dan Pertidaksamaan.pdf",
-    "Lecture College Algebra - Full Course/Tips for Math/Tips untuk Aljabar Linier.md",
-    "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
-    "Lecture College Algebra - Full Course/Tips for Math",
-    "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
-    "Pasted image 20230608141838.png",
-    "Pasted image 20230608140814.png",
-    "Pasted image 20230608140653.png",
-    "Pasted image 20230608140456.png",
-    "Pasted image 20230608140218.png",
+    "Excalidraw/Drawing 2023-06-14 19.15.57.excalidraw.md",
+    "Excalidraw",
+    "Lecture Teknik Informatika/Introduction to TI/2. Computer Basics/2.2. Important Hardware/Random Access Memory.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/07 - Files.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/Attachments/Pasted image 20230614095624.png",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/Attachments",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Lecture Blockchain and Money/Week 3/3. Blockchain Basics & Cryptography.md",
+    "Lecture Blockchain and Money/Week 1/1. Introduction for 15.S12 Blockchain and Money, Fall 2018.md",
+    "Lecture Web Development/zimage/Pythonlearn-07-Files.pdf",
+    "Lecture Teknik Informatika/Introduction to TI/zAll Image/Pasted image 20230528085604.png",
+    "Day Planners/Day Planner-20230606.md",
+    "Lecture Web Development/zimage",
+    "Lecture Web Development/zimage/Pasted image 20230613145248.png",
+    "attachment.md",
+    "Lecture Web Development/zimage/Pasted image 20230613145443.png",
+    "Lecture Web Development/zimage/Pasted image 20230613145625.png",
+    "Lecture Ethical Hacking/Section 5 Scanning/39. Netdiscover.md",
+    "Lecture Ethical Hacking/Section 5 Scanning/Attachments/Pasted image 20230614084344.png",
+    "Lecture Ethical Hacking/Section 5 Scanning/Attachments/Pasted image 20230614084410.png",
+    "Lecture Ethical Hacking/Section 5 Scanning/Attachments",
+    "Lecture Ethical Hacking/Section 5 Scanning/Attachment/Pasted image 20230614084143.png",
+    "Lecture Ethical Hacking/Section 5 Scanning/Attachment",
+    "Lecture Ethical Hacking/Section 5 Scanning/Pasted image 20230614082355.png",
+    "Lecture Ethical Hacking/Section 5 Scanning/Pasted image 20230614082226.png",
+    "Lecture College Algebra - Full Course/Detail/Image Algebra/Rangkuman Konsep Kilat Persamaan Lingkaran - 1.pdf",
+    "Lecture Web Development/zimage/Pythonlearn-06-Strings.pdf",
+    "Lecture Ethical Hacking/Section 5 Scanning/35. Theory Behind Scanning.md",
+    "Lecture Ethical Hacking/Section 5 Scanning/36. TCP & UDP.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/06 - Strings.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/05 - Loops and Iterations.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/04 - Functions.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/03 - Conditional.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/02 - Variables, Expressions, and Statements.md",
-    "Pythonlearn-02-Expressions2.pdf",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
     "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail/Course Content.md",
-    "Lecture Learning Python/12 Rules to Learn to Code/Break someone else's code.md",
-    "Lecture Learning Python/12 Rules to Learn to Code/Get into the Habit of Chunking.md",
-    "Lecture Learning Python/12 Rules to Learn to Code/Trick Your Brain with the 20min Rule.md",
-    "Lecture Learning Python/12 Rules to Learn to Code/There is no 'perfect language to learn'.md",
-    "Lecture Learning Python/12 Rules to Learn to Code/Code for a Puroise, Have a project.md",
-    "Lecture Learning Python/100 Days of Code, The Complete Python Pro Bootcamp for 2023/Day 3/31. Nested if statements and elif statements.md",
-    "Lecture Learning Python/100 Days of Code, The Complete Python Pro Bootcamp for 2023/Day 3/29. Control Flow with if, else and Conditional Operators.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/Untitled.md",
-    "Pasted image 20230608062828.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pythonlearn-01-Intros.pdf",
-    "Lecture Learning English/Jadwal/4. Thursday are for Speakings.md",
-    "Lecture Computer Networking/Introduction to the DNS Service.md",
-    "⭐️ Course Contents ⭐️.md",
-    "Hardware Architecture(httpswww.youtube.comwatchv=8DvywoWv6fI&t=741s).md",
-    "Slides.md",
-    "Python untuk Semua Orang Pengantar Pemrograman(httpswww.youtube.comwatchv=8DvywoWv6fI&t=0s).md",
-    "Python untuk Semua Orang Pengantar Pemrograman.md",
-    "httpswww.youtube.comwatchv=8DvywoWv6fI&t=741s.md",
-    "httpswww.youtube.comwatchv=8DvywoWv6fI&t=0s.md",
-    "Learning From YouTube/Tips/7 Ways to Make a Conversation With Anyone, Malavika Varadan, TEDxBITSPilaniDubai.md",
-    "Learning From YouTube/Tips/Body Language Expert Explains How to Show Confidence, WIRED.md",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606191331.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606135258.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606134824.png",
-    "Lecture Teknik Informatika/Introduction to TI/Pasted image 20230606134552.png",
+    "Lecture College Algebra - Full Course/4. Simplifying Radicals, Snow Day Examples.md",
+    "Lecture College Algebra - Full Course/5. Factoring.md",
+    "Learning From YouTube/Tips/Developing a Mindset for Successful Learning.md",
+    "Lecture Web Development/zimage/Pythonlearn-05-Iterations.pdf",
+    "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail/Image Python/Pythonlearn-04-Functions.pdf",
+    "Lecture College Algebra - Full Course/Detail/⭐️ Course Contents ⭐️.md",
+    "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
+    "Lecture College Algebra - Full Course/Tips for Math/Tips untuk Aljabar Linier.md",
+    "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
     "Lecture College Algebra - Full Course/Untitled.canvas"
   ]
 }

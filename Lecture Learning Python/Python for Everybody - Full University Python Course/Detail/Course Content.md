@@ -22,6 +22,7 @@ This Python 3 tutorial course aims to teach everyone the basics of programming c
 
 ⌨️ ([1:52:48](https://www.youtube.com/watch?v=8DvywoWv6fI&t=6768s)) Functions 
 ⌨️ ([2:03:02](https://www.youtube.com/watch?v=8DvywoWv6fI&t=7382s)) Functions - Functions of our own 
+
 ⌨️ ([2:15:21](https://www.youtube.com/watch?v=8DvywoWv6fI&t=8121s)) Loops and Iteration 
 ⌨️ ([2:25:04](https://www.youtube.com/watch?v=8DvywoWv6fI&t=8704s)) Loops and Iteration - Definite Loops
 ⌨️ ([2:31:40](https://www.youtube.com/watch?v=8DvywoWv6fI&t=9100s)) Loops and Iteration - Loop Idioms 
