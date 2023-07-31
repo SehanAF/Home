@@ -5,5 +5,11 @@
   "promptDelete": false,
   "attachmentFolderPath": "./Attachments",
   "useMarkdownLinks": false,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "newFileLocation": "root",
+  "spellcheckLanguages": [
+    "en-US",
+    "id"
+  ],
+  "alwaysUpdateLinks": true
 }

@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "902e65265bb73962",
+            "id": "e2a200c9bcbf6022",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cc9e9fc15e81aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Learning Python/Python Quickstart/333. Logical Operators.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +43,7 @@
       {
         "id": "dfa28b0d33c731ad",
         "type": "tabs",
-        "dimension": 50.91324200913242,
+        "dimension": 41.0958904109589,
         "children": [
           {
             "id": "f69645b5d1eeae72",
@@ -35,8 +51,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Variabel",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +65,7 @@
       {
         "id": "961724dd71e7e57a",
         "type": "tabs",
-        "dimension": 49.08675799086758,
+        "dimension": 58.9041095890411,
         "children": [
           {
             "id": "560f7afa2198be80",
@@ -81,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5110321044922
   },
   "right": {
     "id": "81ec2a65f77606c2",
@@ -97,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md"
+              }
             }
           },
           {
@@ -152,9 +172,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ed60a68bc1cd0dd2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -173,58 +201,59 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f69645b5d1eeae72",
+  "active": "e2a200c9bcbf6022",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-06-14 19.15.57.excalidraw.md",
-    "Excalidraw",
-    "Lecture Teknik Informatika/Introduction to TI/2. Computer Basics/2.2. Important Hardware/Random Access Memory.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/07 - Files.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/Attachments/Pasted image 20230614095624.png",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/Attachments",
     "Untitled.md",
+    "Todo.md",
+    "Penting!!.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Lecture Learning Python/Python Quickstart/347. Functions.md",
+    "Lecture Learning Python/Python Quickstart/343. break, continue, pass.md",
+    "Lecture Learning Python/Python Quickstart/341. While Loops.md",
+    "Lecture Learning Python/Python Quickstart/340. enumerate().md",
+    "Lecture Learning Python/Python Quickstart/339. range().md",
+    "Lecture Learning Python/Python Quickstart/Untitled 7.md",
+    "Lecture Learning Python/Python Quickstart/Untitled 5.md",
+    "Lecture Learning Python/Python Quickstart/Untitled 4.md",
+    "Lecture Learning Python/Python Quickstart/337. Iterables.md",
+    "Lecture Learning Python/Python Quickstart/336. For Loops.md",
+    "Lecture Learning Python/Python Quickstart/335. is vs ==.md",
+    "Lecture Learning Python/Python Quickstart/333. Logical Operators.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/08 - Lists.md",
+    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/19. Jenis Masalah Pembelajaran Mesin.md",
+    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/18. Kerangka Pembelajaran Mesin 6 Langkah.md",
+    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/17. Introducing Our Framework.md",
+    "Lecture Machine Learning/Section 2 Machine Learning 101/13. Apa itu Pembelajaran Mesin, Ronde 2.md",
+    "Lecture Machine Learning/Section 2 Machine Learning 101/11. Jenis Pembelajaran Mesin.md",
+    "Lecture Machine Learning/Section 2 Machine Learning 101/9. Bagaimana kita sampai disini.md",
+    "Lecture Machine Learning/Section 2 Machine Learning 101/6. AI, Machine Learning, Data Science.md",
+    "Lecture Machine Learning/Section 2 Machine Learning 101/5. Apa itu Pembelajaran Mesin.md",
+    "Attachments/Pasted image 20230724150636.png",
+    "Attachments",
+    "Lecture Computer Vision/Attachments/cs231n_2017_lecture1.pdf",
+    "Lecture Computer Vision/Attachments",
+    "Lecture Computer Vision",
+    "Lecture Learning Python/Python Quickstart/Untitled",
+    "Lecture Introduction to Computational Thinking",
+    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619142521.png",
+    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619142425.png",
+    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619142352.png",
+    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619134622.png",
+    "Lecture College Algebra - Full Course/Lecture Notes/Attachments",
+    "Lecture College Algebra - Full Course/Lecture Notes",
+    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618162512.png",
+    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618161704.png",
+    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618160504.png",
+    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618160421.png",
+    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618160342.png",
+    "Lecture Learning Python/Python Quickstart/Attachments",
+    "Lecture Learning Python/Python Quickstart",
     "Untitled.canvas",
-    "Lecture Blockchain and Money/Week 3/3. Blockchain Basics & Cryptography.md",
-    "Lecture Blockchain and Money/Week 1/1. Introduction for 15.S12 Blockchain and Money, Fall 2018.md",
-    "Lecture Web Development/zimage/Pythonlearn-07-Files.pdf",
-    "Lecture Teknik Informatika/Introduction to TI/zAll Image/Pasted image 20230528085604.png",
-    "Day Planners/Day Planner-20230606.md",
-    "Lecture Web Development/zimage",
-    "Lecture Web Development/zimage/Pasted image 20230613145248.png",
-    "attachment.md",
-    "Lecture Web Development/zimage/Pasted image 20230613145443.png",
-    "Lecture Web Development/zimage/Pasted image 20230613145625.png",
-    "Lecture Ethical Hacking/Section 5 Scanning/39. Netdiscover.md",
-    "Lecture Ethical Hacking/Section 5 Scanning/Attachments/Pasted image 20230614084344.png",
-    "Lecture Ethical Hacking/Section 5 Scanning/Attachments/Pasted image 20230614084410.png",
-    "Lecture Ethical Hacking/Section 5 Scanning/Attachments",
-    "Lecture Ethical Hacking/Section 5 Scanning/Attachment/Pasted image 20230614084143.png",
-    "Lecture Ethical Hacking/Section 5 Scanning/Attachment",
-    "Lecture Ethical Hacking/Section 5 Scanning/Pasted image 20230614082355.png",
-    "Lecture Ethical Hacking/Section 5 Scanning/Pasted image 20230614082226.png",
-    "Lecture College Algebra - Full Course/Detail/Image Algebra/Rangkuman Konsep Kilat Persamaan Lingkaran - 1.pdf",
-    "Lecture Web Development/zimage/Pythonlearn-06-Strings.pdf",
-    "Lecture Ethical Hacking/Section 5 Scanning/35. Theory Behind Scanning.md",
-    "Lecture Ethical Hacking/Section 5 Scanning/36. TCP & UDP.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/06 - Strings.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/05 - Loops and Iterations.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/04 - Functions.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/03 - Conditional.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/02 - Variables, Expressions, and Statements.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail/Course Content.md",
-    "Lecture College Algebra - Full Course/4. Simplifying Radicals, Snow Day Examples.md",
-    "Lecture College Algebra - Full Course/5. Factoring.md",
-    "Learning From YouTube/Tips/Developing a Mindset for Successful Learning.md",
-    "Lecture Web Development/zimage/Pythonlearn-05-Iterations.pdf",
-    "Lecture College Algebra - Full Course/2. Simplifying using Exponent Rules.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Detail/Image Python/Pythonlearn-04-Functions.pdf",
-    "Lecture College Algebra - Full Course/Detail/⭐️ Course Contents ⭐️.md",
-    "Lecture College Algebra - Full Course/3. Simplifying Radicals.md",
-    "Lecture College Algebra - Full Course/Tips for Math/Tips untuk Aljabar Linier.md",
-    "Lecture College Algebra - Full Course/Detail/⭐️ Lecture Notes ⭐️.md",
     "Lecture College Algebra - Full Course/Untitled.canvas"
   ]
 }
