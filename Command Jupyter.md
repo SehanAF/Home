@@ -1,5 +1,5 @@
 Berikut ini adalah beberapa command penting yang dapat Anda gunakan di Jupyter Notebook:
-
+fatal, not a git repo or any of the parent directories
 1. Untuk menjalankan sel (cell):
    - Tekan Shift + Enter untuk menjalankan sel saat ini.
    - Tekan Ctrl + Enter untuk menjalankan sel saat ini dan tetap berada di sel tersebut.

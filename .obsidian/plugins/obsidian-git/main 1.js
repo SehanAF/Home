@@ -9,7 +9,6 @@ var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __defNormalProp = (obj, key2, value) => key2 in obj ? __defProp(obj, key2, { enumerable: true, configurable: true, writable: true, value }) : obj[key2] = value;
 var __esm = (fn, res) => function __init() {
   return fn && (res = (0, fn[__getOwnPropNames(fn)[0]])(fn = 0)), res;
 };
@@ -37,10 +36,6 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
-var __publicField = (obj, key2, value) => {
-  __defNormalProp(obj, typeof key2 !== "symbol" ? key2 + "" : key2, value);
-  return value;
-};
 
 // node_modules/.pnpm/base64-js@1.5.1/node_modules/base64-js/index.js
 var require_base64_js = __commonJS({
@@ -7661,9 +7656,9 @@ var require_ms = __commonJS({
   }
 });
 
-// node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/common.js
+// node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/common.js
 var require_common2 = __commonJS({
-  "node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/common.js"(exports2, module2) {
+  "node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/common.js"(exports2, module2) {
     init_polyfill_buffer();
     function setup(env) {
       createDebug.debug = createDebug;
@@ -7825,9 +7820,9 @@ var require_common2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/browser.js
+// node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/browser.js
 var require_browser = __commonJS({
-  "node_modules/.pnpm/debug@4.3.4_supports-color@9.4.0/node_modules/debug/src/browser.js"(exports2, module2) {
+  "node_modules/.pnpm/debug@4.3.4_supports-color@7.2.0/node_modules/debug/src/browser.js"(exports2, module2) {
     init_polyfill_buffer();
     exports2.formatArgs = formatArgs;
     exports2.save = save;
@@ -7995,9 +7990,9 @@ var require_browser = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/src/index.js
+// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/src/index.js
 var require_src = __commonJS({
-  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/src/index.js"(exports2) {
+  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/src/index.js"(exports2) {
     "use strict";
     init_polyfill_buffer();
     var __importDefault = exports2 && exports2.__importDefault || function(mod) {
@@ -8040,9 +8035,9 @@ var require_src = __commonJS({
   }
 });
 
-// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/index.js
+// node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/index.js
 var require_dist = __commonJS({
-  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@9.4.0/node_modules/@kwsites/file-exists/dist/index.js"(exports2) {
+  "node_modules/.pnpm/@kwsites+file-exists@1.1.1_supports-color@7.2.0/node_modules/@kwsites/file-exists/dist/index.js"(exports2) {
     "use strict";
     init_polyfill_buffer();
     function __export3(m) {
@@ -8923,21 +8918,6 @@ var require_has_symbols = __commonJS({
   }
 });
 
-// node_modules/.pnpm/has-proto@1.0.1/node_modules/has-proto/index.js
-var require_has_proto = __commonJS({
-  "node_modules/.pnpm/has-proto@1.0.1/node_modules/has-proto/index.js"(exports2, module2) {
-    "use strict";
-    init_polyfill_buffer();
-    var test = {
-      foo: {}
-    };
-    var $Object = Object;
-    module2.exports = function hasProto() {
-      return { __proto__: test }.foo === test.foo && !({ __proto__: null } instanceof $Object);
-    };
-  }
-});
-
 // node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/implementation.js
 var require_implementation2 = __commonJS({
   "node_modules/.pnpm/function-bind@1.1.1/node_modules/function-bind/implementation.js"(exports2, module2) {
@@ -9009,9 +8989,9 @@ var require_src2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/get-intrinsic@1.2.1/node_modules/get-intrinsic/index.js
+// node_modules/.pnpm/get-intrinsic@1.2.0/node_modules/get-intrinsic/index.js
 var require_get_intrinsic = __commonJS({
-  "node_modules/.pnpm/get-intrinsic@1.2.1/node_modules/get-intrinsic/index.js"(exports2, module2) {
+  "node_modules/.pnpm/get-intrinsic@1.2.0/node_modules/get-intrinsic/index.js"(exports2, module2) {
     "use strict";
     init_polyfill_buffer();
     var undefined2;
@@ -9048,17 +9028,16 @@ var require_get_intrinsic = __commonJS({
       }
     }() : throwTypeError;
     var hasSymbols = require_has_symbols()();
-    var hasProto = require_has_proto()();
-    var getProto = Object.getPrototypeOf || (hasProto ? function(x) {
+    var getProto = Object.getPrototypeOf || function(x) {
       return x.__proto__;
-    } : null);
+    };
     var needsEval = {};
-    var TypedArray = typeof Uint8Array === "undefined" || !getProto ? undefined2 : getProto(Uint8Array);
+    var TypedArray = typeof Uint8Array === "undefined" ? undefined2 : getProto(Uint8Array);
     var INTRINSICS = {
       "%AggregateError%": typeof AggregateError === "undefined" ? undefined2 : AggregateError,
       "%Array%": Array,
       "%ArrayBuffer%": typeof ArrayBuffer === "undefined" ? undefined2 : ArrayBuffer,
-      "%ArrayIteratorPrototype%": hasSymbols && getProto ? getProto([][Symbol.iterator]()) : undefined2,
+      "%ArrayIteratorPrototype%": hasSymbols ? getProto([][Symbol.iterator]()) : undefined2,
       "%AsyncFromSyncIteratorPrototype%": undefined2,
       "%AsyncFunction%": needsEval,
       "%AsyncGenerator%": needsEval,
@@ -9089,10 +9068,10 @@ var require_get_intrinsic = __commonJS({
       "%Int32Array%": typeof Int32Array === "undefined" ? undefined2 : Int32Array,
       "%isFinite%": isFinite,
       "%isNaN%": isNaN,
-      "%IteratorPrototype%": hasSymbols && getProto ? getProto(getProto([][Symbol.iterator]())) : undefined2,
+      "%IteratorPrototype%": hasSymbols ? getProto(getProto([][Symbol.iterator]())) : undefined2,
       "%JSON%": typeof JSON === "object" ? JSON : undefined2,
       "%Map%": typeof Map === "undefined" ? undefined2 : Map,
-      "%MapIteratorPrototype%": typeof Map === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto((/* @__PURE__ */ new Map())[Symbol.iterator]()),
+      "%MapIteratorPrototype%": typeof Map === "undefined" || !hasSymbols ? undefined2 : getProto((/* @__PURE__ */ new Map())[Symbol.iterator]()),
       "%Math%": Math,
       "%Number%": Number,
       "%Object%": Object,
@@ -9105,10 +9084,10 @@ var require_get_intrinsic = __commonJS({
       "%Reflect%": typeof Reflect === "undefined" ? undefined2 : Reflect,
       "%RegExp%": RegExp,
       "%Set%": typeof Set === "undefined" ? undefined2 : Set,
-      "%SetIteratorPrototype%": typeof Set === "undefined" || !hasSymbols || !getProto ? undefined2 : getProto((/* @__PURE__ */ new Set())[Symbol.iterator]()),
+      "%SetIteratorPrototype%": typeof Set === "undefined" || !hasSymbols ? undefined2 : getProto((/* @__PURE__ */ new Set())[Symbol.iterator]()),
       "%SharedArrayBuffer%": typeof SharedArrayBuffer === "undefined" ? undefined2 : SharedArrayBuffer,
       "%String%": String,
-      "%StringIteratorPrototype%": hasSymbols && getProto ? getProto(""[Symbol.iterator]()) : undefined2,
+      "%StringIteratorPrototype%": hasSymbols ? getProto(""[Symbol.iterator]()) : undefined2,
       "%Symbol%": hasSymbols ? Symbol : undefined2,
       "%SyntaxError%": $SyntaxError,
       "%ThrowTypeError%": ThrowTypeError,
@@ -9123,13 +9102,11 @@ var require_get_intrinsic = __commonJS({
       "%WeakRef%": typeof WeakRef === "undefined" ? undefined2 : WeakRef,
       "%WeakSet%": typeof WeakSet === "undefined" ? undefined2 : WeakSet
     };
-    if (getProto) {
-      try {
-        null.error;
-      } catch (e) {
-        errorProto = getProto(getProto(e));
-        INTRINSICS["%Error.prototype%"] = errorProto;
-      }
+    try {
+      null.error;
+    } catch (e) {
+      errorProto = getProto(getProto(e));
+      INTRINSICS["%Error.prototype%"] = errorProto;
     }
     var errorProto;
     var doEval = function doEval2(name) {
@@ -9147,7 +9124,7 @@ var require_get_intrinsic = __commonJS({
         }
       } else if (name === "%AsyncIteratorPrototype%") {
         var gen = doEval2("%AsyncGenerator%");
-        if (gen && getProto) {
+        if (gen) {
           value = getProto(gen.prototype);
         }
       }
@@ -15812,7 +15789,7 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 init_polyfill_buffer();
 
-// node_modules/.pnpm/isomorphic-git@1.24.2/node_modules/isomorphic-git/index.js
+// node_modules/.pnpm/isomorphic-git@1.23.0/node_modules/isomorphic-git/index.js
 init_polyfill_buffer();
 var import_async_lock = __toESM(require_async_lock(), 1);
 var import_sha1 = __toESM(require_sha1(), 1);
@@ -15822,7 +15799,7 @@ var import_pify = __toESM(require_pify(), 1);
 var import_ignore = __toESM(require_ignore(), 1);
 var import_clean_git_ref = __toESM(require_lib2(), 1);
 var import_diff3 = __toESM(require_diff3(), 1);
-var BaseError = class _BaseError extends Error {
+var BaseError = class extends Error {
   constructor(message) {
     super(message);
     this.caller = "";
@@ -15837,7 +15814,7 @@ var BaseError = class _BaseError extends Error {
     };
   }
   fromJSON(json) {
-    const e = new _BaseError(json.message);
+    const e = new BaseError(json.message);
     e.code = json.code;
     e.data = json.data;
     e.caller = json.caller;
@@ -15848,7 +15825,7 @@ var BaseError = class _BaseError extends Error {
     return true;
   }
 };
-var UnmergedPathsError = class _UnmergedPathsError extends BaseError {
+var UnmergedPathsError = class extends BaseError {
   /**
    * @param {Array<string>} filepaths
    */
@@ -15856,12 +15833,12 @@ var UnmergedPathsError = class _UnmergedPathsError extends BaseError {
     super(
       `Modifying the index is not possible because you have unmerged files: ${filepaths.toString}. Fix them up in the work tree, and then use 'git add/rm as appropriate to mark resolution and make a commit.`
     );
-    this.code = this.name = _UnmergedPathsError.code;
+    this.code = this.name = UnmergedPathsError.code;
     this.data = { filepaths };
   }
 };
 UnmergedPathsError.code = "UnmergedPathsError";
-var InternalError = class _InternalError extends BaseError {
+var InternalError = class extends BaseError {
   /**
    * @param {string} message
    */
@@ -15869,18 +15846,18 @@ var InternalError = class _InternalError extends BaseError {
     super(
       `An internal error caused this command to fail. Please file a bug report at https://github.com/isomorphic-git/isomorphic-git/issues with this error message: ${message}`
     );
-    this.code = this.name = _InternalError.code;
+    this.code = this.name = InternalError.code;
     this.data = { message };
   }
 };
 InternalError.code = "InternalError";
-var UnsafeFilepathError = class _UnsafeFilepathError extends BaseError {
+var UnsafeFilepathError = class extends BaseError {
   /**
    * @param {string} filepath
    */
   constructor(filepath) {
     super(`The filepath "${filepath}" contains unsafe character sequences`);
-    this.code = this.name = _UnsafeFilepathError.code;
+    this.code = this.name = UnsafeFilepathError.code;
     this.data = { filepath };
   }
 };
@@ -16057,7 +16034,7 @@ function renderCacheEntryFlags(entry) {
   flags.nameLength = Math.min(Buffer.from(entry.path).length, 4095);
   return (flags.assumeValid ? 32768 : 0) + (flags.extended ? 16384 : 0) + ((flags.stage & 3) << 12) + (flags.nameLength & 4095);
 }
-var GitIndex = class _GitIndex {
+var GitIndex = class {
   /*::
    _entries: Map<string, CacheEntry>
    _dirty: boolean // Used to determine if index needs to be saved to filesystem
@@ -16084,29 +16061,26 @@ var GitIndex = class _GitIndex {
   }
   static async from(buffer2) {
     if (Buffer.isBuffer(buffer2)) {
-      return _GitIndex.fromBuffer(buffer2);
+      return GitIndex.fromBuffer(buffer2);
     } else if (buffer2 === null) {
-      return new _GitIndex(null);
+      return new GitIndex(null);
     } else {
       throw new InternalError("invalid type passed to GitIndex.from");
     }
   }
   static async fromBuffer(buffer2) {
-    if (buffer2.length === 0) {
-      throw new InternalError("Index file is empty (.git/index)");
-    }
-    const index2 = new _GitIndex();
-    const reader = new BufferCursor(buffer2);
-    const magic = reader.toString("utf8", 4);
-    if (magic !== "DIRC") {
-      throw new InternalError(`Invalid dircache magic file number: ${magic}`);
-    }
     const shaComputed = await shasum(buffer2.slice(0, -20));
     const shaClaimed = buffer2.slice(-20).toString("hex");
     if (shaClaimed !== shaComputed) {
       throw new InternalError(
         `Invalid checksum in GitIndex buffer: expected ${shaClaimed} but saw ${shaComputed}`
       );
+    }
+    const index2 = new GitIndex();
+    const reader = new BufferCursor(buffer2);
+    const magic = reader.toString("utf8", 4);
+    if (magic !== "DIRC") {
+      throw new InternalError(`Inavlid dircache magic file number: ${magic}`);
     }
     const version2 = reader.readUInt32BE();
     if (version2 !== 2) {
@@ -16273,11 +16247,11 @@ var GitIndex = class _GitIndex {
     writer.writeUInt32BE(this.entriesFlat.length);
     let entryBuffers = [];
     for (const entry of this.entries) {
-      entryBuffers.push(_GitIndex._entryToBuffer(entry));
+      entryBuffers.push(GitIndex._entryToBuffer(entry));
       if (entry.stages.length > 1) {
         for (const stage of entry.stages) {
           if (stage && stage !== entry) {
-            entryBuffers.push(_GitIndex._entryToBuffer(stage));
+            entryBuffers.push(GitIndex._entryToBuffer(stage));
           }
         }
       }
@@ -16532,18 +16506,18 @@ function STAGE() {
   Object.freeze(o);
   return o;
 }
-var NotFoundError = class _NotFoundError extends BaseError {
+var NotFoundError = class extends BaseError {
   /**
    * @param {string} what
    */
   constructor(what) {
     super(`Could not find ${what}.`);
-    this.code = this.name = _NotFoundError.code;
+    this.code = this.name = NotFoundError.code;
     this.data = { what };
   }
 };
 NotFoundError.code = "NotFoundError";
-var ObjectTypeError = class _ObjectTypeError extends BaseError {
+var ObjectTypeError = class extends BaseError {
   /**
    * @param {string} oid
    * @param {'blob'|'commit'|'tag'|'tree'} actual
@@ -16554,23 +16528,23 @@ var ObjectTypeError = class _ObjectTypeError extends BaseError {
     super(
       `Object ${oid} ${filepath ? `at ${filepath}` : ""}was anticipated to be a ${expected} but it is a ${actual}.`
     );
-    this.code = this.name = _ObjectTypeError.code;
+    this.code = this.name = ObjectTypeError.code;
     this.data = { oid, actual, expected, filepath };
   }
 };
 ObjectTypeError.code = "ObjectTypeError";
-var InvalidOidError = class _InvalidOidError extends BaseError {
+var InvalidOidError = class extends BaseError {
   /**
    * @param {string} value
    */
   constructor(value) {
     super(`Expected a 40-char hex object id but saw "${value}".`);
-    this.code = this.name = _InvalidOidError.code;
+    this.code = this.name = InvalidOidError.code;
     this.data = { value };
   }
 };
 InvalidOidError.code = "InvalidOidError";
-var NoRefspecError = class _NoRefspecError extends BaseError {
+var NoRefspecError = class extends BaseError {
   /**
    * @param {string} remote
    */
@@ -16579,12 +16553,12 @@ var NoRefspecError = class _NoRefspecError extends BaseError {
 [remote "${remote}"]
 	fetch = +refs/heads/*:refs/remotes/origin/*
 `);
-    this.code = this.name = _NoRefspecError.code;
+    this.code = this.name = NoRefspecError.code;
     this.data = { remote };
   }
 };
 NoRefspecError.code = "NoRefspecError";
-var GitPackedRefs = class _GitPackedRefs {
+var GitPackedRefs = class {
   constructor(text2) {
     this.refs = /* @__PURE__ */ new Map();
     this.parsedConfig = [];
@@ -16610,7 +16584,7 @@ var GitPackedRefs = class _GitPackedRefs {
     return this;
   }
   static from(text2) {
-    return new _GitPackedRefs(text2);
+    return new GitPackedRefs(text2);
   }
   delete(ref) {
     this.parsedConfig = this.parsedConfig.filter((entry) => entry.ref !== ref);
@@ -16620,7 +16594,7 @@ var GitPackedRefs = class _GitPackedRefs {
     return this.parsedConfig.map(({ line }) => line).join("\n") + "\n";
   }
 };
-var GitRefSpec = class _GitRefSpec {
+var GitRefSpec = class {
   constructor({ remotePath, localPath, force, matchPrefix }) {
     Object.assign(this, {
       remotePath,
@@ -16643,7 +16617,7 @@ var GitRefSpec = class _GitRefSpec {
     if (remoteIsGlob !== localIsGlob) {
       throw new InternalError("Invalid refspec");
     }
-    return new _GitRefSpec({
+    return new GitRefSpec({
       remotePath,
       localPath,
       force,
@@ -16673,7 +16647,7 @@ var GitRefSpec = class _GitRefSpec {
     return null;
   }
 };
-var GitRefSpecSet = class _GitRefSpecSet {
+var GitRefSpecSet = class {
   constructor(rules = []) {
     this.rules = rules;
   }
@@ -16682,7 +16656,7 @@ var GitRefSpecSet = class _GitRefSpecSet {
     for (const refspec of refspecs) {
       rules.push(GitRefSpec.from(refspec));
     }
-    return new _GitRefSpecSet(rules);
+    return new GitRefSpecSet(rules);
   }
   add(refspec) {
     const rule = GitRefSpec.from(refspec);
@@ -16832,7 +16806,7 @@ var findLastIndex = (array, callback) => {
     return callback(item) ? index2 : lastIndex;
   }, -1);
 };
-var GitConfig = class _GitConfig {
+var GitConfig = class {
   constructor(text2) {
     let section = null;
     let subsection = null;
@@ -16858,7 +16832,7 @@ var GitConfig = class _GitConfig {
     });
   }
   static from(text2) {
-    return new _GitConfig(text2);
+    return new GitConfig(text2);
   }
   async get(path2, getall = false) {
     const normalizedPath = normalizePath$1(path2).path;
@@ -16977,7 +16951,7 @@ var refpaths = (ref) => [
   `refs/remotes/${ref}/HEAD`
 ];
 var GIT_FILES = ["config", "description", "index", "shallow", "commondir"];
-var GitRefManager = class _GitRefManager {
+var GitRefManager = class {
   static async updateRemoteRefs({
     fs,
     gitdir,
@@ -17005,12 +16979,12 @@ var GitRefManager = class _GitRefManager {
     const refspec = GitRefSpecSet.from(refspecs);
     const actualRefsToWrite = /* @__PURE__ */ new Map();
     if (pruneTags) {
-      const tags2 = await _GitRefManager.listRefs({
+      const tags2 = await GitRefManager.listRefs({
         fs,
         gitdir,
         filepath: "refs/tags"
       });
-      await _GitRefManager.deleteRefs({
+      await GitRefManager.deleteRefs({
         fs,
         gitdir,
         refs: tags2.map((tag2) => `refs/tags/${tag2}`)
@@ -17019,7 +16993,7 @@ var GitRefManager = class _GitRefManager {
     if (tags) {
       for (const serverRef of refs.keys()) {
         if (serverRef.startsWith("refs/tags") && !serverRef.endsWith("^{}")) {
-          if (!await _GitRefManager.exists({ fs, gitdir, ref: serverRef })) {
+          if (!await GitRefManager.exists({ fs, gitdir, ref: serverRef })) {
             const oid = refs.get(serverRef);
             actualRefsToWrite.set(serverRef, oid);
           }
@@ -17042,7 +17016,7 @@ var GitRefManager = class _GitRefManager {
     const pruned = [];
     if (prune) {
       for (const filepath of refspec.localNamespaces()) {
-        const refs2 = (await _GitRefManager.listRefs({
+        const refs2 = (await GitRefManager.listRefs({
           fs,
           gitdir,
           filepath
@@ -17054,7 +17028,7 @@ var GitRefManager = class _GitRefManager {
         }
       }
       if (pruned.length > 0) {
-        await _GitRefManager.deleteRefs({ fs, gitdir, refs: pruned });
+        await GitRefManager.deleteRefs({ fs, gitdir, refs: pruned });
       }
     }
     for (const [key2, value] of actualRefsToWrite) {
@@ -17076,7 +17050,7 @@ var GitRefManager = class _GitRefManager {
 `, "utf8");
   }
   static async deleteRef({ fs, gitdir, ref }) {
-    return _GitRefManager.deleteRefs({ fs, gitdir, refs: [ref] });
+    return GitRefManager.deleteRefs({ fs, gitdir, refs: [ref] });
   }
   static async deleteRefs({ fs, gitdir, refs }) {
     await Promise.all(refs.map((ref) => fs.rm(join(gitdir, ref))));
@@ -17111,24 +17085,24 @@ var GitRefManager = class _GitRefManager {
     let sha;
     if (ref.startsWith("ref: ")) {
       ref = ref.slice("ref: ".length);
-      return _GitRefManager.resolve({ fs, gitdir, ref, depth });
+      return GitRefManager.resolve({ fs, gitdir, ref, depth });
     }
     if (ref.length === 40 && /[0-9a-f]{40}/.test(ref)) {
       return ref;
     }
-    const packedMap = await _GitRefManager.packedRefs({ fs, gitdir });
+    const packedMap = await GitRefManager.packedRefs({ fs, gitdir });
     const allpaths = refpaths(ref).filter((p) => !GIT_FILES.includes(p));
     for (const ref2 of allpaths) {
       sha = await fs.read(`${gitdir}/${ref2}`, { encoding: "utf8" }) || packedMap.get(ref2);
       if (sha) {
-        return _GitRefManager.resolve({ fs, gitdir, ref: sha.trim(), depth });
+        return GitRefManager.resolve({ fs, gitdir, ref: sha.trim(), depth });
       }
     }
     throw new NotFoundError(ref);
   }
   static async exists({ fs, gitdir, ref }) {
     try {
-      await _GitRefManager.expand({ fs, gitdir, ref });
+      await GitRefManager.expand({ fs, gitdir, ref });
       return true;
     } catch (err) {
       return false;
@@ -17138,7 +17112,7 @@ var GitRefManager = class _GitRefManager {
     if (ref.length === 40 && /[0-9a-f]{40}/.test(ref)) {
       return ref;
     }
-    const packedMap = await _GitRefManager.packedRefs({ fs, gitdir });
+    const packedMap = await GitRefManager.packedRefs({ fs, gitdir });
     const allpaths = refpaths(ref);
     for (const ref2 of allpaths) {
       if (await fs.exists(`${gitdir}/${ref2}`))
@@ -17165,7 +17139,7 @@ var GitRefManager = class _GitRefManager {
     }
     if (ref.startsWith("ref: ")) {
       ref = ref.slice("ref: ".length);
-      return _GitRefManager.resolveAgainstMap({ ref, fullref, depth, map });
+      return GitRefManager.resolveAgainstMap({ ref, fullref, depth, map });
     }
     if (ref.length === 40 && /[0-9a-f]{40}/.test(ref)) {
       return { fullref, oid: ref };
@@ -17174,7 +17148,7 @@ var GitRefManager = class _GitRefManager {
     for (const ref2 of allpaths) {
       const sha = map.get(ref2);
       if (sha) {
-        return _GitRefManager.resolveAgainstMap({
+        return GitRefManager.resolveAgainstMap({
           ref: sha.trim(),
           fullref: ref2,
           depth,
@@ -17191,7 +17165,7 @@ var GitRefManager = class _GitRefManager {
   }
   // List all the refs that match the `filepath` prefix
   static async listRefs({ fs, gitdir, filepath }) {
-    const packedMap = _GitRefManager.packedRefs({ fs, gitdir });
+    const packedMap = GitRefManager.packedRefs({ fs, gitdir });
     let files = null;
     try {
       files = await fs.readdirDeep(`${gitdir}/${filepath}`);
@@ -17212,17 +17186,17 @@ var GitRefManager = class _GitRefManager {
   }
   static async listBranches({ fs, gitdir, remote }) {
     if (remote) {
-      return _GitRefManager.listRefs({
+      return GitRefManager.listRefs({
         fs,
         gitdir,
         filepath: `refs/remotes/${remote}`
       });
     } else {
-      return _GitRefManager.listRefs({ fs, gitdir, filepath: `refs/heads` });
+      return GitRefManager.listRefs({ fs, gitdir, filepath: `refs/heads` });
     }
   }
   static async listTags({ fs, gitdir }) {
-    const tags = await _GitRefManager.listRefs({
+    const tags = await GitRefManager.listRefs({
       fs,
       gitdir,
       filepath: `refs/tags`
@@ -17307,7 +17281,7 @@ function nudgeIntoShape(entry) {
   }
   return entry;
 }
-var GitTree = class _GitTree {
+var GitTree = class {
   constructor(entries) {
     if (Buffer.isBuffer(entries)) {
       this._entries = parseBuffer(entries);
@@ -17319,7 +17293,7 @@ var GitTree = class _GitTree {
     this._entries.sort(comparePath);
   }
   static from(tree) {
-    return new _GitTree(tree);
+    return new GitTree(tree);
   }
   render() {
     return this._entries.map((entry) => `${entry.mode} ${entry.type} ${entry.oid}    ${entry.path}`).join("\n");
@@ -17719,7 +17693,7 @@ function otherVarIntDecode(reader, startWith) {
   } while (byte & 128);
   return result;
 }
-var GitPackIndex = class _GitPackIndex {
+var GitPackIndex = class {
   constructor(stuff) {
     Object.assign(this, stuff);
     this.offsetCache = {};
@@ -17754,7 +17728,7 @@ var GitPackIndex = class _GitPackIndex {
       offsets.set(hashes[i], reader.readUInt32BE());
     }
     const packfileSha = reader.slice(20).toString("hex");
-    return new _GitPackIndex({
+    return new GitPackIndex({
       hashes,
       crcs: {},
       offsets,
@@ -17820,7 +17794,7 @@ var GitPackIndex = class _GitPackIndex {
       o.end = end;
       o.crc = crc;
     }
-    const p = new _GitPackIndex({
+    const p = new GitPackIndex({
       pack: Promise.resolve(pack),
       packfileSha,
       crcs,
@@ -18102,7 +18076,7 @@ async function _readObject({
   }
   throw new InternalError(`invalid format "${result.format}"`);
 }
-var AlreadyExistsError = class _AlreadyExistsError extends BaseError {
+var AlreadyExistsError = class extends BaseError {
   /**
    * @param {'note'|'remote'|'tag'|'branch'} noun
    * @param {string} where
@@ -18112,12 +18086,12 @@ var AlreadyExistsError = class _AlreadyExistsError extends BaseError {
     super(
       `Failed to create ${noun} at ${where} because it already exists.${canForce ? ` (Hint: use 'force: true' parameter to overwrite existing ${noun}.)` : ""}`
     );
-    this.code = this.name = _AlreadyExistsError.code;
+    this.code = this.name = AlreadyExistsError.code;
     this.data = { noun, where, canForce };
   }
 };
 AlreadyExistsError.code = "AlreadyExistsError";
-var AmbiguousError = class _AmbiguousError extends BaseError {
+var AmbiguousError = class extends BaseError {
   /**
    * @param {'oids'|'refs'} nouns
    * @param {string} short
@@ -18129,12 +18103,12 @@ var AmbiguousError = class _AmbiguousError extends BaseError {
         ", "
       )}). Use a longer abbreviation length to disambiguate them.`
     );
-    this.code = this.name = _AmbiguousError.code;
+    this.code = this.name = AmbiguousError.code;
     this.data = { nouns, short, matches };
   }
 };
 AmbiguousError.code = "AmbiguousError";
-var CheckoutConflictError = class _CheckoutConflictError extends BaseError {
+var CheckoutConflictError = class extends BaseError {
   /**
    * @param {string[]} filepaths
    */
@@ -18144,12 +18118,12 @@ var CheckoutConflictError = class _CheckoutConflictError extends BaseError {
         ", "
       )}`
     );
-    this.code = this.name = _CheckoutConflictError.code;
+    this.code = this.name = CheckoutConflictError.code;
     this.data = { filepaths };
   }
 };
 CheckoutConflictError.code = "CheckoutConflictError";
-var CommitNotFetchedError = class _CommitNotFetchedError extends BaseError {
+var CommitNotFetchedError = class extends BaseError {
   /**
    * @param {string} ref
    * @param {string} oid
@@ -18158,40 +18132,40 @@ var CommitNotFetchedError = class _CommitNotFetchedError extends BaseError {
     super(
       `Failed to checkout "${ref}" because commit ${oid} is not available locally. Do a git fetch to make the branch available locally.`
     );
-    this.code = this.name = _CommitNotFetchedError.code;
+    this.code = this.name = CommitNotFetchedError.code;
     this.data = { ref, oid };
   }
 };
 CommitNotFetchedError.code = "CommitNotFetchedError";
-var EmptyServerResponseError = class _EmptyServerResponseError extends BaseError {
+var EmptyServerResponseError = class extends BaseError {
   constructor() {
     super(`Empty response from git server.`);
-    this.code = this.name = _EmptyServerResponseError.code;
+    this.code = this.name = EmptyServerResponseError.code;
     this.data = {};
   }
 };
 EmptyServerResponseError.code = "EmptyServerResponseError";
-var FastForwardError = class _FastForwardError extends BaseError {
+var FastForwardError = class extends BaseError {
   constructor() {
     super(`A simple fast-forward merge was not possible.`);
-    this.code = this.name = _FastForwardError.code;
+    this.code = this.name = FastForwardError.code;
     this.data = {};
   }
 };
 FastForwardError.code = "FastForwardError";
-var GitPushError = class _GitPushError extends BaseError {
+var GitPushError = class extends BaseError {
   /**
    * @param {string} prettyDetails
    * @param {PushResult} result
    */
   constructor(prettyDetails, result) {
     super(`One or more branches were not updated: ${prettyDetails}`);
-    this.code = this.name = _GitPushError.code;
+    this.code = this.name = GitPushError.code;
     this.data = { prettyDetails, result };
   }
 };
 GitPushError.code = "GitPushError";
-var HttpError = class _HttpError extends BaseError {
+var HttpError = class extends BaseError {
   /**
    * @param {number} statusCode
    * @param {string} statusMessage
@@ -18199,12 +18173,12 @@ var HttpError = class _HttpError extends BaseError {
    */
   constructor(statusCode, statusMessage, response) {
     super(`HTTP Error: ${statusCode} ${statusMessage}`);
-    this.code = this.name = _HttpError.code;
+    this.code = this.name = HttpError.code;
     this.data = { statusCode, statusMessage, response };
   }
 };
 HttpError.code = "HttpError";
-var InvalidFilepathError = class _InvalidFilepathError extends BaseError {
+var InvalidFilepathError = class extends BaseError {
   /**
    * @param {'leading-slash'|'trailing-slash'|'directory'} [reason]
    */
@@ -18216,12 +18190,12 @@ var InvalidFilepathError = class _InvalidFilepathError extends BaseError {
       message = `"filepath" should not be a directory.`;
     }
     super(message);
-    this.code = this.name = _InvalidFilepathError.code;
+    this.code = this.name = InvalidFilepathError.code;
     this.data = { reason };
   }
 };
 InvalidFilepathError.code = "InvalidFilepathError";
-var InvalidRefNameError = class _InvalidRefNameError extends BaseError {
+var InvalidRefNameError = class extends BaseError {
   /**
    * @param {string} ref
    * @param {string} suggestion
@@ -18231,31 +18205,31 @@ var InvalidRefNameError = class _InvalidRefNameError extends BaseError {
     super(
       `"${ref}" would be an invalid git reference. (Hint: a valid alternative would be "${suggestion}".)`
     );
-    this.code = this.name = _InvalidRefNameError.code;
+    this.code = this.name = InvalidRefNameError.code;
     this.data = { ref, suggestion };
   }
 };
 InvalidRefNameError.code = "InvalidRefNameError";
-var MaxDepthError = class _MaxDepthError extends BaseError {
+var MaxDepthError = class extends BaseError {
   /**
    * @param {number} depth
    */
   constructor(depth) {
     super(`Maximum search depth of ${depth} exceeded.`);
-    this.code = this.name = _MaxDepthError.code;
+    this.code = this.name = MaxDepthError.code;
     this.data = { depth };
   }
 };
 MaxDepthError.code = "MaxDepthError";
-var MergeNotSupportedError = class _MergeNotSupportedError extends BaseError {
+var MergeNotSupportedError = class extends BaseError {
   constructor() {
     super(`Merges with conflicts are not supported yet.`);
-    this.code = this.name = _MergeNotSupportedError.code;
+    this.code = this.name = MergeNotSupportedError.code;
     this.data = {};
   }
 };
 MergeNotSupportedError.code = "MergeNotSupportedError";
-var MergeConflictError = class _MergeConflictError extends BaseError {
+var MergeConflictError = class extends BaseError {
   /**
    * @param {Array<string>} filepaths
    */
@@ -18263,12 +18237,12 @@ var MergeConflictError = class _MergeConflictError extends BaseError {
     super(
       `Automatic merge failed with one or more merge conflicts in the following files: ${filepaths.toString()}. Fix conflicts then commit the result.`
     );
-    this.code = this.name = _MergeConflictError.code;
+    this.code = this.name = MergeConflictError.code;
     this.data = { filepaths };
   }
 };
 MergeConflictError.code = "MergeConflictError";
-var MissingNameError = class _MissingNameError extends BaseError {
+var MissingNameError = class extends BaseError {
   /**
    * @param {'author'|'committer'|'tagger'} role
    */
@@ -18276,12 +18250,12 @@ var MissingNameError = class _MissingNameError extends BaseError {
     super(
       `No name was provided for ${role} in the argument or in the .git/config file.`
     );
-    this.code = this.name = _MissingNameError.code;
+    this.code = this.name = MissingNameError.code;
     this.data = { role };
   }
 };
 MissingNameError.code = "MissingNameError";
-var MissingParameterError = class _MissingParameterError extends BaseError {
+var MissingParameterError = class extends BaseError {
   /**
    * @param {string} parameter
    */
@@ -18289,12 +18263,12 @@ var MissingParameterError = class _MissingParameterError extends BaseError {
     super(
       `The function requires a "${parameter}" parameter but none was provided.`
     );
-    this.code = this.name = _MissingParameterError.code;
+    this.code = this.name = MissingParameterError.code;
     this.data = { parameter };
   }
 };
 MissingParameterError.code = "MissingParameterError";
-var MultipleGitError = class _MultipleGitError extends BaseError {
+var MultipleGitError = class extends BaseError {
   /**
    * @param {Error[]} errors
    * @param {string} message
@@ -18303,25 +18277,25 @@ var MultipleGitError = class _MultipleGitError extends BaseError {
     super(
       `There are multiple errors that were thrown by the method. Please refer to the "errors" property to see more`
     );
-    this.code = this.name = _MultipleGitError.code;
+    this.code = this.name = MultipleGitError.code;
     this.data = { errors };
     this.errors = errors;
   }
 };
 MultipleGitError.code = "MultipleGitError";
-var ParseError = class _ParseError extends BaseError {
+var ParseError = class extends BaseError {
   /**
    * @param {string} expected
    * @param {string} actual
    */
   constructor(expected, actual) {
     super(`Expected "${expected}" but received "${actual}".`);
-    this.code = this.name = _ParseError.code;
+    this.code = this.name = ParseError.code;
     this.data = { expected, actual };
   }
 };
 ParseError.code = "ParseError";
-var PushRejectedError = class _PushRejectedError extends BaseError {
+var PushRejectedError = class extends BaseError {
   /**
    * @param {'not-fast-forward'|'tag-exists'} reason
    */
@@ -18333,12 +18307,12 @@ var PushRejectedError = class _PushRejectedError extends BaseError {
       message = " because tag already exists";
     }
     super(`Push rejected${message}. Use "force: true" to override.`);
-    this.code = this.name = _PushRejectedError.code;
+    this.code = this.name = PushRejectedError.code;
     this.data = { reason };
   }
 };
 PushRejectedError.code = "PushRejectedError";
-var RemoteCapabilityError = class _RemoteCapabilityError extends BaseError {
+var RemoteCapabilityError = class extends BaseError {
   /**
    * @param {'shallow'|'deepen-since'|'deepen-not'|'deepen-relative'} capability
    * @param {'depth'|'since'|'exclude'|'relative'} parameter
@@ -18347,12 +18321,12 @@ var RemoteCapabilityError = class _RemoteCapabilityError extends BaseError {
     super(
       `Remote does not support the "${capability}" so the "${parameter}" parameter cannot be used.`
     );
-    this.code = this.name = _RemoteCapabilityError.code;
+    this.code = this.name = RemoteCapabilityError.code;
     this.data = { capability, parameter };
   }
 };
 RemoteCapabilityError.code = "RemoteCapabilityError";
-var SmartHttpError = class _SmartHttpError extends BaseError {
+var SmartHttpError = class extends BaseError {
   /**
    * @param {string} preview
    * @param {string} response
@@ -18361,12 +18335,12 @@ var SmartHttpError = class _SmartHttpError extends BaseError {
     super(
       `Remote did not reply using the "smart" HTTP protocol. Expected "001e# service=git-upload-pack" but received: ${preview}`
     );
-    this.code = this.name = _SmartHttpError.code;
+    this.code = this.name = SmartHttpError.code;
     this.data = { preview, response };
   }
 };
 SmartHttpError.code = "SmartHttpError";
-var UnknownTransportError = class _UnknownTransportError extends BaseError {
+var UnknownTransportError = class extends BaseError {
   /**
    * @param {string} url
    * @param {string} transport
@@ -18376,31 +18350,31 @@ var UnknownTransportError = class _UnknownTransportError extends BaseError {
     super(
       `Git remote "${url}" uses an unrecognized transport protocol: "${transport}"`
     );
-    this.code = this.name = _UnknownTransportError.code;
+    this.code = this.name = UnknownTransportError.code;
     this.data = { url, transport, suggestion };
   }
 };
 UnknownTransportError.code = "UnknownTransportError";
-var UrlParseError = class _UrlParseError extends BaseError {
+var UrlParseError = class extends BaseError {
   /**
    * @param {string} url
    */
   constructor(url) {
     super(`Cannot parse remote URL: "${url}"`);
-    this.code = this.name = _UrlParseError.code;
+    this.code = this.name = UrlParseError.code;
     this.data = { url };
   }
 };
 UrlParseError.code = "UrlParseError";
-var UserCanceledError = class _UserCanceledError extends BaseError {
+var UserCanceledError = class extends BaseError {
   constructor() {
     super(`The operation was canceled.`);
-    this.code = this.name = _UserCanceledError.code;
+    this.code = this.name = UserCanceledError.code;
     this.data = {};
   }
 };
 UserCanceledError.code = "UserCanceledError";
-var IndexResetError = class _IndexResetError extends BaseError {
+var IndexResetError = class extends BaseError {
   /**
    * @param {Array<string>} filepaths
    */
@@ -18408,7 +18382,7 @@ var IndexResetError = class _IndexResetError extends BaseError {
     super(
       `Could not merge index: Entry for '${filepath}' is not up to date. Either reset the index entry to HEAD, or stage your unstaged chages.`
     );
-    this.code = this.name = _IndexResetError.code;
+    this.code = this.name = IndexResetError.code;
     this.data = { filepath };
   }
 };
@@ -18495,14 +18469,14 @@ function parseTimezoneOffset(offset) {
 function negateExceptForZero$1(n) {
   return n === 0 ? n : -n;
 }
-var GitAnnotatedTag = class _GitAnnotatedTag {
+var GitAnnotatedTag = class {
   constructor(tag2) {
     if (typeof tag2 === "string") {
       this._tag = tag2;
     } else if (Buffer.isBuffer(tag2)) {
       this._tag = tag2.toString("utf8");
     } else if (typeof tag2 === "object") {
-      this._tag = _GitAnnotatedTag.render(tag2);
+      this._tag = GitAnnotatedTag.render(tag2);
     } else {
       throw new InternalError(
         "invalid type passed to GitAnnotatedTag constructor"
@@ -18510,7 +18484,7 @@ var GitAnnotatedTag = class _GitAnnotatedTag {
     }
   }
   static from(tag2) {
-    return new _GitAnnotatedTag(tag2);
+    return new GitAnnotatedTag(tag2);
   }
   static render(obj) {
     return `object ${obj.object}
@@ -18591,7 +18565,7 @@ ${obj.gpgsig ? obj.gpgsig : ""}`;
     let { signature } = await sign({ payload, secretKey });
     signature = normalizeNewlines(signature);
     const signedTag = payload + signature;
-    return _GitAnnotatedTag.from(signedTag);
+    return GitAnnotatedTag.from(signedTag);
   }
 };
 function indent(str) {
@@ -18600,28 +18574,28 @@ function indent(str) {
 function outdent(str) {
   return str.split("\n").map((x) => x.replace(/^ /, "")).join("\n");
 }
-var GitCommit = class _GitCommit {
+var GitCommit = class {
   constructor(commit2) {
     if (typeof commit2 === "string") {
       this._commit = commit2;
     } else if (Buffer.isBuffer(commit2)) {
       this._commit = commit2.toString("utf8");
     } else if (typeof commit2 === "object") {
-      this._commit = _GitCommit.render(commit2);
+      this._commit = GitCommit.render(commit2);
     } else {
       throw new InternalError("invalid type passed to GitCommit constructor");
     }
   }
   static fromPayloadSignature({ payload, signature }) {
-    const headers = _GitCommit.justHeaders(payload);
-    const message = _GitCommit.justMessage(payload);
+    const headers = GitCommit.justHeaders(payload);
+    const message = GitCommit.justMessage(payload);
     const commit2 = normalizeNewlines(
       headers + "\ngpgsig" + indent(signature) + "\n" + message
     );
-    return new _GitCommit(commit2);
+    return new GitCommit(commit2);
   }
   static from(commit2) {
-    return new _GitCommit(commit2);
+    return new GitCommit(commit2);
   }
   toObject() {
     return Buffer.from(this._commit, "utf8");
@@ -18632,7 +18606,7 @@ var GitCommit = class _GitCommit {
   }
   // Todo: allow setting the headers and message
   message() {
-    return _GitCommit.justMessage(this._commit);
+    return GitCommit.justMessage(this._commit);
   }
   parse() {
     return Object.assign({ message: this.message() }, this.headers());
@@ -18644,7 +18618,7 @@ var GitCommit = class _GitCommit {
     return commit2.slice(0, commit2.indexOf("\n\n"));
   }
   parseHeaders() {
-    const headers = _GitCommit.justHeaders(this._commit).split("\n");
+    const headers = GitCommit.justHeaders(this._commit).split("\n");
     const hs = [];
     for (const h of headers) {
       if (h[0] === " ") {
@@ -18703,7 +18677,7 @@ var GitCommit = class _GitCommit {
     return headers;
   }
   static render(obj) {
-    return _GitCommit.renderHeaders(obj) + "\n" + normalizeNewlines(obj.message);
+    return GitCommit.renderHeaders(obj) + "\n" + normalizeNewlines(obj.message);
   }
   render() {
     return this._commit;
@@ -18727,12 +18701,12 @@ var GitCommit = class _GitCommit {
   }
   static async sign(commit2, sign, secretKey) {
     const payload = commit2.withoutSignature();
-    const message = _GitCommit.justMessage(commit2._commit);
+    const message = GitCommit.justMessage(commit2._commit);
     let { signature } = await sign({ payload, secretKey });
     signature = normalizeNewlines(signature);
-    const headers = _GitCommit.justHeaders(commit2._commit);
+    const headers = GitCommit.justHeaders(commit2._commit);
     const signedCommit = headers + "\ngpgsig" + indent(signature) + "\n" + message;
-    return _GitCommit.from(signedCommit);
+    return GitCommit.from(signedCommit);
   }
 };
 async function resolveTree({ fs, cache, gitdir, oid }) {
@@ -19132,63 +19106,47 @@ async function rmRecursive(fs, filepath) {
     await fs.rmdir(filepath);
   }
 }
-function isPromiseFs(fs) {
-  const test = (targetFs) => {
-    try {
-      return targetFs.readFile().catch((e) => e);
-    } catch (e) {
-      return e;
-    }
-  };
-  return test(fs).constructor.name === "Promise";
-}
-var commands = [
-  "readFile",
-  "writeFile",
-  "mkdir",
-  "rmdir",
-  "unlink",
-  "stat",
-  "lstat",
-  "readdir",
-  "readlink",
-  "symlink"
-];
-function bindFs(target, fs) {
-  if (isPromiseFs(fs)) {
-    for (const command of commands) {
-      target[`_${command}`] = fs[command].bind(fs);
-    }
-  } else {
-    for (const command of commands) {
-      target[`_${command}`] = (0, import_pify.default)(fs[command].bind(fs));
-    }
-  }
-  if (isPromiseFs(fs)) {
-    if (fs.rm)
-      target._rm = fs.rm.bind(fs);
-    else if (fs.rmdir.length > 1)
-      target._rm = fs.rmdir.bind(fs);
-    else
-      target._rm = rmRecursive.bind(null, target);
-  } else {
-    if (fs.rm)
-      target._rm = (0, import_pify.default)(fs.rm.bind(fs));
-    else if (fs.rmdir.length > 2)
-      target._rm = (0, import_pify.default)(fs.rmdir.bind(fs));
-    else
-      target._rm = rmRecursive.bind(null, target);
-  }
-}
 var FileSystem = class {
   constructor(fs) {
     if (typeof fs._original_unwrapped_fs !== "undefined")
       return fs;
     const promises = Object.getOwnPropertyDescriptor(fs, "promises");
     if (promises && promises.enumerable) {
-      bindFs(this, fs.promises);
+      this._readFile = fs.promises.readFile.bind(fs.promises);
+      this._writeFile = fs.promises.writeFile.bind(fs.promises);
+      this._mkdir = fs.promises.mkdir.bind(fs.promises);
+      if (fs.promises.rm) {
+        this._rm = fs.promises.rm.bind(fs.promises);
+      } else if (fs.promises.rmdir.length > 1) {
+        this._rm = fs.promises.rmdir.bind(fs.promises);
+      } else {
+        this._rm = rmRecursive.bind(null, this);
+      }
+      this._rmdir = fs.promises.rmdir.bind(fs.promises);
+      this._unlink = fs.promises.unlink.bind(fs.promises);
+      this._stat = fs.promises.stat.bind(fs.promises);
+      this._lstat = fs.promises.lstat.bind(fs.promises);
+      this._readdir = fs.promises.readdir.bind(fs.promises);
+      this._readlink = fs.promises.readlink.bind(fs.promises);
+      this._symlink = fs.promises.symlink.bind(fs.promises);
     } else {
-      bindFs(this, fs);
+      this._readFile = (0, import_pify.default)(fs.readFile.bind(fs));
+      this._writeFile = (0, import_pify.default)(fs.writeFile.bind(fs));
+      this._mkdir = (0, import_pify.default)(fs.mkdir.bind(fs));
+      if (fs.rm) {
+        this._rm = (0, import_pify.default)(fs.rm.bind(fs));
+      } else if (fs.rmdir.length > 2) {
+        this._rm = (0, import_pify.default)(fs.rmdir.bind(fs));
+      } else {
+        this._rm = rmRecursive.bind(null, this);
+      }
+      this._rmdir = (0, import_pify.default)(fs.rmdir.bind(fs));
+      this._unlink = (0, import_pify.default)(fs.unlink.bind(fs));
+      this._stat = (0, import_pify.default)(fs.stat.bind(fs));
+      this._lstat = (0, import_pify.default)(fs.lstat.bind(fs));
+      this._readdir = (0, import_pify.default)(fs.readdir.bind(fs));
+      this._readlink = (0, import_pify.default)(fs.readlink.bind(fs));
+      this._symlink = (0, import_pify.default)(fs.symlink.bind(fs));
     }
     this._original_unwrapped_fs = fs;
   }
@@ -19562,8 +19520,7 @@ async function add({
   gitdir = join(dir, ".git"),
   filepath,
   cache = {},
-  force = false,
-  parallel = true
+  force = false
 }) {
   try {
     assertParameter("fs", _fs);
@@ -19572,30 +19529,14 @@ async function add({
     assertParameter("filepath", filepath);
     const fs = new FileSystem(_fs);
     await GitIndexManager.acquire({ fs, gitdir, cache }, async (index2) => {
-      return addToIndex({
-        dir,
-        gitdir,
-        fs,
-        filepath,
-        index: index2,
-        force,
-        parallel
-      });
+      return addToIndex({ dir, gitdir, fs, filepath, index: index2, force });
     });
   } catch (err) {
     err.caller = "git.add";
     throw err;
   }
 }
-async function addToIndex({
-  dir,
-  gitdir,
-  fs,
-  filepath,
-  index: index2,
-  force,
-  parallel
-}) {
+async function addToIndex({ dir, gitdir, fs, filepath, index: index2, force }) {
   filepath = Array.isArray(filepath) ? filepath : [filepath];
   const promises = filepath.map(async (currentFilepath) => {
     if (!force) {
@@ -19613,32 +19554,17 @@ async function addToIndex({
       throw new NotFoundError(currentFilepath);
     if (stats.isDirectory()) {
       const children2 = await fs.readdir(join(dir, currentFilepath));
-      if (parallel) {
-        const promises2 = children2.map(
-          (child) => addToIndex({
-            dir,
-            gitdir,
-            fs,
-            filepath: [join(currentFilepath, child)],
-            index: index2,
-            force,
-            parallel
-          })
-        );
-        await Promise.all(promises2);
-      } else {
-        for (const child of children2) {
-          await addToIndex({
-            dir,
-            gitdir,
-            fs,
-            filepath: [join(currentFilepath, child)],
-            index: index2,
-            force,
-            parallel
-          });
-        }
-      }
+      const promises2 = children2.map(
+        (child) => addToIndex({
+          dir,
+          gitdir,
+          fs,
+          filepath: [join(currentFilepath, child)],
+          index: index2,
+          force
+        })
+      );
+      await Promise.all(promises2);
     } else {
       const object = stats.isSymbolicLink() ? await fs.readlink(join(dir, currentFilepath)).then(posixifyPathBuffer) : await fs.read(join(dir, currentFilepath));
       if (object === null)
@@ -21175,8 +21101,8 @@ function filterCapabilities(server, client) {
 }
 var pkg = {
   name: "isomorphic-git",
-  version: "1.24.2",
-  agent: "git/isomorphic-git@1.24.2"
+  version: "1.23.0",
+  agent: "git/isomorphic-git@1.23.0"
 };
 var FIFO = class {
   constructor() {
@@ -21958,7 +21884,6 @@ async function currentBranch({
   }
 }
 async function _deleteBranch({ fs, gitdir, ref }) {
-  ref = ref.startsWith("refs/heads/") ? ref : `refs/heads/${ref}`;
   const exist = await GitRefManager.exists({ fs, gitdir, ref });
   if (!exist) {
     throw new NotFoundError(ref);
@@ -25408,7 +25333,7 @@ var import_obsidian4 = require("obsidian");
 var path = __toESM(require("path"));
 var import_path = require("path");
 
-// node_modules/.pnpm/github.com+Vinzent03+git-js@6b9a2d899bc8256e38a1d6f0b8a88116ba2bf56a_supports-color@9.4.0_rdkutdaeyye3o67thmklazfzta/node_modules/simple-git/dist/esm/index.js
+// node_modules/.pnpm/github.com+Vinzent03+git-js@6b9a2d899bc8256e38a1d6f0b8a88116ba2bf56a_supports-color@7.2.0/node_modules/simple-git/dist/esm/index.js
 init_polyfill_buffer();
 var import_file_exists = __toESM(require_dist(), 1);
 var import_debug = __toESM(require_browser(), 1);
@@ -25423,15 +25348,15 @@ var __getOwnPropNames2 = Object.getOwnPropertyNames;
 var __getOwnPropSymbols = Object.getOwnPropertySymbols;
 var __hasOwnProp2 = Object.prototype.hasOwnProperty;
 var __propIsEnum = Object.prototype.propertyIsEnumerable;
-var __defNormalProp2 = (obj, key2, value) => key2 in obj ? __defProp2(obj, key2, { enumerable: true, configurable: true, writable: true, value }) : obj[key2] = value;
+var __defNormalProp = (obj, key2, value) => key2 in obj ? __defProp2(obj, key2, { enumerable: true, configurable: true, writable: true, value }) : obj[key2] = value;
 var __spreadValues = (a, b) => {
   for (var prop in b || (b = {}))
     if (__hasOwnProp2.call(b, prop))
-      __defNormalProp2(a, prop, b[prop]);
+      __defNormalProp(a, prop, b[prop]);
   if (__getOwnPropSymbols)
     for (var prop of __getOwnPropSymbols(b)) {
       if (__propIsEnum.call(b, prop))
-        __defNormalProp2(a, prop, b[prop]);
+        __defNormalProp(a, prop, b[prop]);
     }
   return a;
 };
@@ -25759,19 +25684,19 @@ var init_simple_git_options = __esm2({
     };
   }
 });
-function appendTaskOptions(options, commands2 = []) {
+function appendTaskOptions(options, commands = []) {
   if (!filterPlainObject(options)) {
-    return commands2;
+    return commands;
   }
-  return Object.keys(options).reduce((commands22, key2) => {
+  return Object.keys(options).reduce((commands2, key2) => {
     const value = options[key2];
     if (filterPrimitives(value, ["boolean"])) {
-      commands22.push(key2 + "=" + value);
+      commands2.push(key2 + "=" + value);
     } else {
-      commands22.push(key2);
+      commands2.push(key2);
     }
-    return commands22;
-  }, commands2);
+    return commands2;
+  }, commands);
 }
 function getTrailingOptions(args, initialPrimitive = 0, objectOnly = false) {
   const command = [];
@@ -25896,18 +25821,18 @@ function checkIsRepoTask(action) {
     case "root":
       return checkIsRepoRootTask();
   }
-  const commands2 = ["rev-parse", "--is-inside-work-tree"];
+  const commands = ["rev-parse", "--is-inside-work-tree"];
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     onError,
     parser
   };
 }
 function checkIsRepoRootTask() {
-  const commands2 = ["rev-parse", "--git-dir"];
+  const commands = ["rev-parse", "--git-dir"];
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     onError,
     parser(path2) {
@@ -25916,9 +25841,9 @@ function checkIsRepoRootTask() {
   };
 }
 function checkIsBareRepoTask() {
-  const commands2 = ["rev-parse", "--is-bare-repository"];
+  const commands = ["rev-parse", "--is-bare-repository"];
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     onError,
     parser
@@ -26006,18 +25931,18 @@ function configurationErrorTask(error) {
     }
   };
 }
-function straightThroughStringTask(commands2, trimmed2 = false) {
+function straightThroughStringTask(commands, trimmed2 = false) {
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(text2) {
       return trimmed2 ? String(text2).trim() : text2;
     }
   };
 }
-function straightThroughBufferTask(commands2) {
+function straightThroughBufferTask(commands) {
   return {
-    commands: commands2,
+    commands,
     format: "buffer",
     parser(buffer2) {
       return buffer2;
@@ -26062,9 +25987,9 @@ function cleanWithOptionsTask(mode, customArgs) {
   return cleanTask(cleanMode, options);
 }
 function cleanTask(mode, customArgs) {
-  const commands2 = ["clean", `-${mode}`, ...customArgs];
+  const commands = ["clean", `-${mode}`, ...customArgs];
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(text2) {
       return cleanSummaryParser(mode === "n", text2);
@@ -26225,13 +26150,13 @@ function asConfigScope(scope, fallback) {
   return fallback;
 }
 function addConfigTask(key2, value, append22, scope) {
-  const commands2 = ["config", `--${scope}`];
+  const commands = ["config", `--${scope}`];
   if (append22) {
-    commands2.push("--add");
+    commands.push("--add");
   }
-  commands2.push(key2, value);
+  commands.push(key2, value);
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(text2) {
       return text2;
@@ -26239,12 +26164,12 @@ function addConfigTask(key2, value, append22, scope) {
   };
 }
 function getConfigTask(key2, scope) {
-  const commands2 = ["config", "--null", "--show-origin", "--get-all", key2];
+  const commands = ["config", "--null", "--show-origin", "--get-all", key2];
   if (scope) {
-    commands2.splice(1, 0, `--${scope}`);
+    commands.splice(1, 0, `--${scope}`);
   }
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(text2) {
       return configGetParser(text2, key2);
@@ -26252,12 +26177,12 @@ function getConfigTask(key2, scope) {
   };
 }
 function listConfigTask(scope) {
-  const commands2 = ["config", "--list", "--show-origin", "--null"];
+  const commands = ["config", "--list", "--show-origin", "--null"];
   if (scope) {
-    commands2.push(`--${scope}`);
+    commands.push(`--${scope}`);
   }
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(text2) {
       return configListParser(text2);
@@ -26328,9 +26253,9 @@ function grep_default() {
       if (typeof searchTerm === "string") {
         searchTerm = grepQueryBuilder().param(searchTerm);
       }
-      const commands2 = ["grep", "--null", "-n", "--full-name", ...options, ...searchTerm];
+      const commands = ["grep", "--null", "-n", "--full-name", ...options, ...searchTerm];
       return this._runTask({
-        commands: commands2,
+        commands,
         format: "utf-8",
         parser(stdOut) {
           return parseGrep(stdOut);
@@ -26376,12 +26301,12 @@ __export2(reset_exports, {
   resetTask: () => resetTask
 });
 function resetTask(mode, customArgs) {
-  const commands2 = ["reset"];
+  const commands = ["reset"];
   if (isValidResetMode(mode)) {
-    commands2.push(`--${mode}`);
+    commands.push(`--${mode}`);
   }
-  commands2.push(...customArgs);
-  return straightThroughStringTask(commands2);
+  commands.push(...customArgs);
+  return straightThroughStringTask(commands);
 }
 function getResetMode(mode) {
   if (isValidResetMode(mode)) {
@@ -26538,10 +26463,10 @@ var init_tasks_pending_queue = __esm2({
     TasksPendingQueue.counter = 0;
   }
 });
-function pluginContext(task, commands2) {
+function pluginContext(task, commands) {
   return {
     method: first(task.commands) || "",
-    commands: commands2
+    commands
   };
 }
 function onErrorReceived(target, logger) {
@@ -26800,11 +26725,11 @@ var init_change_working_directory = __esm2({
   }
 });
 function checkoutTask(args) {
-  const commands2 = ["checkout", ...args];
-  if (commands2[1] === "-b" && commands2.includes("-B")) {
-    commands2[1] = remove2(commands2, "-B");
+  const commands = ["checkout", ...args];
+  if (commands[1] === "-b" && commands.includes("-B")) {
+    commands[1] = remove2(commands, "-B");
   }
-  return straightThroughStringTask(commands2);
+  return straightThroughStringTask(commands);
 }
 function checkout_default() {
   return {
@@ -26878,7 +26803,7 @@ var init_parse_commit = __esm2({
   }
 });
 function commitTask(message, files, customArgs) {
-  const commands2 = [
+  const commands = [
     "-c",
     "core.abbrev=40",
     "commit",
@@ -26887,7 +26812,7 @@ function commitTask(message, files, customArgs) {
     ...customArgs
   ];
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser: parseCommitResult
   };
@@ -26912,11 +26837,11 @@ var init_commit = __esm2({
   }
 });
 function hashObjectTask(filePath, write) {
-  const commands2 = ["hash-object", filePath];
+  const commands = ["hash-object", filePath];
   if (write) {
-    commands2.push("-w");
+    commands.push("-w");
   }
-  return straightThroughStringTask(commands2, true);
+  return straightThroughStringTask(commands, true);
 }
 var init_hash_object = __esm2({
   "src/lib/tasks/hash-object.ts"() {
@@ -26964,15 +26889,15 @@ function hasBareCommand(command) {
   return command.includes(bareCommand);
 }
 function initTask(bare = false, path2, customArgs) {
-  const commands2 = ["init", ...customArgs];
-  if (bare && !hasBareCommand(commands2)) {
-    commands2.splice(1, 0, bareCommand);
+  const commands = ["init", ...customArgs];
+  if (bare && !hasBareCommand(commands)) {
+    commands.splice(1, 0, bareCommand);
   }
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(text2) {
-      return parseInit(commands2.includes("--bare"), path2, text2);
+      return parseInit(commands.includes("--bare"), path2, text2);
     }
   };
 }
@@ -27174,14 +27099,14 @@ __export2(diff_exports, {
 });
 function diffSummaryTask(customArgs) {
   let logFormat = logFormatFromCommand(customArgs);
-  const commands2 = ["diff"];
+  const commands = ["diff"];
   if (logFormat === "") {
     logFormat = "--stat";
-    commands2.push("--stat=4096");
+    commands.push("--stat=4096");
   }
-  commands2.push(...customArgs);
-  return validateLogFormatConfig(commands2) || {
-    commands: commands2,
+  commands.push(...customArgs);
+  return validateLogFormatConfig(commands) || {
+    commands,
     format: "utf-8",
     parser: getDiffParser(logFormat)
   };
@@ -27644,18 +27569,18 @@ function pushTagsTask(ref = {}, customArgs) {
   return pushTask(ref, customArgs);
 }
 function pushTask(ref = {}, customArgs) {
-  const commands2 = ["push", ...customArgs];
+  const commands = ["push", ...customArgs];
   if (ref.branch) {
-    commands2.splice(1, 0, ref.branch);
+    commands.splice(1, 0, ref.branch);
   }
   if (ref.remote) {
-    commands2.splice(1, 0, ref.remote);
+    commands.splice(1, 0, ref.remote);
   }
-  remove2(commands2, "-v");
-  append(commands2, "--verbose");
-  append(commands2, "--porcelain");
+  remove2(commands, "-v");
+  append(commands, "--verbose");
+  append(commands, "--porcelain");
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser: parsePushResult
   };
@@ -27828,7 +27753,7 @@ var init_StatusSummary = __esm2({
   }
 });
 function statusTask(customArgs) {
-  const commands2 = [
+  const commands = [
     "status",
     "--porcelain",
     "-b",
@@ -27838,7 +27763,7 @@ function statusTask(customArgs) {
   ];
   return {
     format: "utf-8",
-    commands: commands2,
+    commands,
     parser(text2) {
       return parseStatusSummary(text2);
     }
@@ -28175,22 +28100,22 @@ __export2(branch_exports, {
   deleteBranchTask: () => deleteBranchTask,
   deleteBranchesTask: () => deleteBranchesTask
 });
-function containsDeleteBranchCommand(commands2) {
+function containsDeleteBranchCommand(commands) {
   const deleteCommands = ["-d", "-D", "--delete"];
-  return commands2.some((command) => deleteCommands.includes(command));
+  return commands.some((command) => deleteCommands.includes(command));
 }
 function branchTask(customArgs) {
   const isDelete = containsDeleteBranchCommand(customArgs);
-  const commands2 = ["branch", ...customArgs];
-  if (commands2.length === 1) {
-    commands2.push("-a");
+  const commands = ["branch", ...customArgs];
+  if (commands.length === 1) {
+    commands.push("-a");
   }
-  if (!commands2.includes("-v")) {
-    commands2.splice(1, 0, "-v");
+  if (!commands.includes("-v")) {
+    commands.splice(1, 0, "-v");
   }
   return {
     format: "utf-8",
-    commands: commands2,
+    commands,
     parser(stdOut, stdErr) {
       if (isDelete) {
         return parseBranchDeletions(stdOut, stdErr).all[0];
@@ -28279,14 +28204,14 @@ function disallowedCommand(command) {
   return /^--upload-pack(=|$)/.test(command);
 }
 function cloneTask(repo, directory, customArgs) {
-  const commands2 = ["clone", ...customArgs];
-  filterString(repo) && commands2.push(repo);
-  filterString(directory) && commands2.push(directory);
-  const banned = commands2.find(disallowedCommand);
+  const commands = ["clone", ...customArgs];
+  filterString(repo) && commands.push(repo);
+  filterString(directory) && commands.push(directory);
+  const banned = commands.find(disallowedCommand);
   if (banned) {
     return configurationErrorTask(`git.fetch: potential exploit argument blocked.`);
   }
-  return straightThroughStringTask(commands2);
+  return straightThroughStringTask(commands);
 }
 function cloneMirrorTask(repo, directory, customArgs) {
   append(customArgs, "--mirror");
@@ -28353,16 +28278,16 @@ function disallowedCommand2(command) {
   return /^--upload-pack(=|$)/.test(command);
 }
 function fetchTask(remote, branch2, customArgs) {
-  const commands2 = ["fetch", ...customArgs];
+  const commands = ["fetch", ...customArgs];
   if (remote && branch2) {
-    commands2.push(remote, branch2);
+    commands.push(remote, branch2);
   }
-  const banned = commands2.find(disallowedCommand2);
+  const banned = commands.find(disallowedCommand2);
   if (banned) {
     return configurationErrorTask(`git.fetch: potential exploit argument blocked.`);
   }
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser: parseFetchResult
   };
@@ -28409,12 +28334,12 @@ __export2(pull_exports, {
   pullTask: () => pullTask
 });
 function pullTask(remote, branch2, customArgs) {
-  const commands2 = ["pull", ...customArgs];
+  const commands = ["pull", ...customArgs];
   if (remote && branch2) {
-    commands2.splice(1, 0, remote, branch2);
+    commands.splice(1, 0, remote, branch2);
   }
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser(stdOut, stdErr) {
       return parsePullResult(stdOut, stdErr);
@@ -28475,29 +28400,29 @@ function addRemoteTask(remoteName, remoteRepo, customArgs = []) {
   return straightThroughStringTask(["remote", "add", ...customArgs, remoteName, remoteRepo]);
 }
 function getRemotesTask(verbose) {
-  const commands2 = ["remote"];
+  const commands = ["remote"];
   if (verbose) {
-    commands2.push("-v");
+    commands.push("-v");
   }
   return {
-    commands: commands2,
+    commands,
     format: "utf-8",
     parser: verbose ? parseGetRemotesVerbose : parseGetRemotes
   };
 }
 function listRemotesTask(customArgs = []) {
-  const commands2 = [...customArgs];
-  if (commands2[0] !== "ls-remote") {
-    commands2.unshift("ls-remote");
+  const commands = [...customArgs];
+  if (commands[0] !== "ls-remote") {
+    commands.unshift("ls-remote");
   }
-  return straightThroughStringTask(commands2);
+  return straightThroughStringTask(commands);
 }
 function remoteTask(customArgs = []) {
-  const commands2 = [...customArgs];
-  if (commands2[0] !== "remote") {
-    commands2.unshift("remote");
+  const commands = [...customArgs];
+  if (commands[0] !== "remote") {
+    commands.unshift("remote");
   }
-  return straightThroughStringTask(commands2);
+  return straightThroughStringTask(commands);
 }
 function removeRemoteTask(remoteName) {
   return straightThroughStringTask(["remote", "remove", remoteName]);
@@ -28514,10 +28439,10 @@ __export2(stash_list_exports, {
 });
 function stashListTask(opt = {}, customArgs) {
   const options = parseLogOptions(opt);
-  const commands2 = ["stash", "list", ...options.commands, ...customArgs];
-  const parser3 = createListLogSummaryParser(options.splitter, options.fields, logFormatFromCommand(commands2));
-  return validateLogFormatConfig(commands2) || {
-    commands: commands2,
+  const commands = ["stash", "list", ...options.commands, ...customArgs];
+  const parser3 = createListLogSummaryParser(options.splitter, options.fields, logFormatFromCommand(commands));
+  return validateLogFormatConfig(commands) || {
+    commands,
     format: "utf-8",
     parser: parser3
   };
@@ -28544,11 +28469,11 @@ function initSubModuleTask(customArgs) {
   return subModuleTask(["init", ...customArgs]);
 }
 function subModuleTask(customArgs) {
-  const commands2 = [...customArgs];
-  if (commands2[0] !== "submodule") {
-    commands2.unshift("submodule");
+  const commands = [...customArgs];
+  if (commands[0] !== "submodule") {
+    commands.unshift("submodule");
   }
-  return straightThroughStringTask(commands2);
+  return straightThroughStringTask(commands);
 }
 function updateSubModuleTask(customArgs) {
   return subModuleTask(["update", ...customArgs]);
@@ -28788,9 +28713,9 @@ var require_git = __commonJS2({
     Git2.prototype.branchLocal = function(then) {
       return this._runTask(branchLocalTask2(), trailingFunctionArgument2(arguments));
     };
-    Git2.prototype.raw = function(commands2) {
-      const createRestCommands = !Array.isArray(commands2);
-      const command = [].slice.call(createRestCommands ? arguments : commands2, 0);
+    Git2.prototype.raw = function(commands) {
+      const createRestCommands = !Array.isArray(commands);
+      const command = [].slice.call(createRestCommands ? arguments : commands, 0);
       for (let i = 0; i < command.length && createRestCommands; i++) {
         if (!filterPrimitives2(command[i])) {
           command.splice(i, command.length - i);
@@ -28882,8 +28807,8 @@ var require_git = __commonJS2({
       return this._runTask(task, trailingFunctionArgument2(arguments));
     };
     Git2.prototype.revparse = function() {
-      const commands2 = ["rev-parse", ...getTrailingOptions2(arguments, true)];
-      return this._runTask(straightThroughStringTask2(commands2, true), trailingFunctionArgument2(arguments));
+      const commands = ["rev-parse", ...getTrailingOptions2(arguments, true)];
+      return this._runTask(straightThroughStringTask2(commands, true), trailingFunctionArgument2(arguments));
     };
     Git2.prototype.show = function(options, then) {
       return this._runTask(straightThroughStringTask2(["show", ...getTrailingOptions2(arguments, 1)]), trailingFunctionArgument2(arguments));
@@ -29954,21 +29879,21 @@ var SimpleGit = class extends GitManager {
       (err) => this.onError(err)
     );
     return res.all.map((e) => {
-      var _a2, _b, _c, _d;
+      var _a2, _b;
       return {
         ...e,
         refs: e.refs.split(", "),
         diff: {
           ...e.diff,
-          files: (_b = (_a2 = e.diff) == null ? void 0 : _a2.files.map((f) => ({
+          files: e.diff.files.map((f) => ({
             ...f,
             status: f.status,
             path: f.file,
             hash: e.hash,
             vault_path: this.getVaultPath(f.file)
-          }))) != null ? _b : []
+          }))
         },
-        fileName: (_d = (_c = e.diff) == null ? void 0 : _c.files.first()) == null ? void 0 : _d.file
+        fileName: (_b = (_a2 = e.diff) == null ? void 0 : _a2.files.first()) == null ? void 0 : _b.file
       };
     });
   }
@@ -31140,7 +31065,6 @@ var IsomorphicGit = class extends GitManager {
       "110": "DA",
       // Technically, two files: first one is deleted "D " and second one is untracked "??"
       "111": "  ",
-      "113": "MM",
       "120": "DA",
       // Same as "110"
       "121": " M",
@@ -32257,8 +32181,8 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
         })
       );
       new import_obsidian8.Setting(containerEl).setName("Commit message on auto backup/commit").setDesc(
-        "Available placeholders: {{date}} (see below), {{hostname}} (see below), {{numFiles}} (number of changed files in the commit) and {{files}} (changed files in commit message)"
-      ).addTextArea(
+        "Available placeholders: {{date}} (see below), {{hostname}} (see below) and {{numFiles}} (number of changed files in the commit)"
+      ).addText(
         (text2) => text2.setPlaceholder("vault backup: {{date}}").setValue(plugin.settings.autoCommitMessage).onChange((value) => {
           plugin.settings.autoCommitMessage = value;
           plugin.saveSettings();
@@ -32267,8 +32191,8 @@ var ObsidianGitSettingsTab = class extends import_obsidian8.PluginSettingTab {
       containerEl.createEl("br");
       containerEl.createEl("h3", { text: "Commit message" });
       new import_obsidian8.Setting(containerEl).setName("Commit message on manual backup/commit").setDesc(
-        "Available placeholders: {{date}} (see below), {{hostname}} (see below), {{numFiles}} (number of changed files in the commit) and {{files}} (changed files in commit message)"
-      ).addTextArea(
+        "Available placeholders: {{date}} (see below), {{hostname}} (see below) and {{numFiles}} (number of changed files in the commit)"
+      ).addText(
         (text2) => text2.setPlaceholder("vault backup: {{date}}").setValue(
           plugin.settings.commitMessage ? plugin.settings.commitMessage : ""
         ).onChange((value) => {
@@ -36003,13 +35927,7 @@ var import_obsidian20 = require("obsidian");
 // src/ui/history/historyView.svelte
 init_polyfill_buffer();
 
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/index.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/animations.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/utils.js
+// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/internal/index.mjs
 init_polyfill_buffer();
 function noop() {
 }
@@ -36027,20 +35945,14 @@ function is_function(thing) {
   return typeof thing === "function";
 }
 function safe_not_equal(a, b) {
-  return a != a ? b == b : a !== b || a && typeof a === "object" || typeof a === "function";
+  return a != a ? b == b : a !== b || (a && typeof a === "object" || typeof a === "function");
 }
 function is_empty(obj) {
   return Object.keys(obj).length === 0;
 }
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/environment.js
-init_polyfill_buffer();
 var is_client = typeof window !== "undefined";
 var now = is_client ? () => window.performance.now() : () => Date.now();
 var raf = is_client ? (cb) => requestAnimationFrame(cb) : noop;
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/loop.js
-init_polyfill_buffer();
 var tasks = /* @__PURE__ */ new Set();
 function run_tasks(now2) {
   tasks.forEach((task) => {
@@ -36065,47 +35977,12 @@ function loop(callback) {
     }
   };
 }
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/style_manager.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/dom.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/globals.js
-init_polyfill_buffer();
-var globals = typeof window !== "undefined" ? window : typeof globalThis !== "undefined" ? globalThis : (
-  // @ts-ignore Node typings have this
-  global
-);
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/ResizeObserverSingleton.js
-var ResizeObserverSingleton = class _ResizeObserverSingleton {
-  /** @param {ResizeObserverOptions} options */
+var globals = typeof window !== "undefined" ? window : typeof globalThis !== "undefined" ? globalThis : global;
+var ResizeObserverSingleton = class {
   constructor(options) {
-    /**
-     * @private
-     * @readonly
-     * @type {WeakMap<Element, import('./private.js').Listener>}
-     */
-    __publicField(this, "_listeners", "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0);
-    /**
-     * @private
-     * @type {ResizeObserver}
-     */
-    __publicField(this, "_observer");
-    /** @type {ResizeObserverOptions} */
-    __publicField(this, "options");
     this.options = options;
+    this._listeners = "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0;
   }
-  /**
-   * @param {Element} element
-   * @param {import('./private.js').Listener} listener
-   * @returns {() => void}
-   */
   observe(element2, listener) {
     this._listeners.set(element2, listener);
     this._getObserver().observe(element2, this.options);
@@ -36114,23 +35991,18 @@ var ResizeObserverSingleton = class _ResizeObserverSingleton {
       this._observer.unobserve(element2);
     };
   }
-  /**
-   * @private
-   */
   _getObserver() {
     var _a2;
-    return (_a2 = this._observer) != null ? _a2 : this._observer = new ResizeObserver((entries) => {
+    return (_a2 = this._observer) !== null && _a2 !== void 0 ? _a2 : this._observer = new ResizeObserver((entries) => {
       var _a3;
       for (const entry of entries) {
-        _ResizeObserverSingleton.entries.set(entry.target, entry);
-        (_a3 = this._listeners.get(entry.target)) == null ? void 0 : _a3(entry);
+        ResizeObserverSingleton.entries.set(entry.target, entry);
+        (_a3 = this._listeners.get(entry.target)) === null || _a3 === void 0 ? void 0 : _a3(entry);
       }
     });
   }
 };
 ResizeObserverSingleton.entries = "WeakMap" in globals ? /* @__PURE__ */ new WeakMap() : void 0;
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/dom.js
 var is_hydrating = false;
 function start_hydrating() {
   is_hydrating = true;
@@ -36154,27 +36026,18 @@ function get_root_for_style(node) {
   if (!node)
     return document;
   const root2 = node.getRootNode ? node.getRootNode() : node.ownerDocument;
-  if (root2 && /** @type {ShadowRoot} */
-  root2.host) {
-    return (
-      /** @type {ShadowRoot} */
-      root2
-    );
+  if (root2 && root2.host) {
+    return root2;
   }
   return node.ownerDocument;
 }
 function append_empty_stylesheet(node) {
   const style_element = element("style");
-  style_element.textContent = "/* empty */";
   append_stylesheet(get_root_for_style(node), style_element);
   return style_element.sheet;
 }
 function append_stylesheet(node, style) {
-  append2(
-    /** @type {Document} */
-    node.head || node,
-    style
-  );
+  append2(node.head || node, style);
   return style.sheet;
 }
 function insert(target, node, anchor) {
@@ -36226,8 +36089,7 @@ function set_data(text2, data) {
   data = "" + data;
   if (text2.data === data)
     return;
-  text2.data = /** @type {string} */
-  data;
+  text2.data = data;
 }
 function set_input_value(input, value) {
   input.value = value == null ? "" : value;
@@ -36240,23 +36102,13 @@ function set_style(node, key2, value, important) {
   }
 }
 function toggle_class(element2, name, toggle) {
-  element2.classList.toggle(name, !!toggle);
+  element2.classList[toggle ? "add" : "remove"](name);
 }
 function custom_event(type, detail, { bubbles = false, cancelable = false } = {}) {
-  return new CustomEvent(type, { detail, bubbles, cancelable });
+  const e = document.createEvent("CustomEvent");
+  e.initCustomEvent(type, bubbles, cancelable, detail);
+  return e;
 }
-function get_custom_elements_slots(element2) {
-  const result = {};
-  element2.childNodes.forEach(
-    /** @param {Element} node */
-    (node) => {
-      result[node.slot || "default"] = true;
-    }
-  );
-  return result;
-}
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/style_manager.js
 var managed_styles = /* @__PURE__ */ new Map();
 var active = 0;
 function hash(str) {
@@ -36319,18 +36171,6 @@ function clear_rules() {
     managed_styles.clear();
   });
 }
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/await_block.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/transitions.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/scheduler.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/lifecycle.js
-init_polyfill_buffer();
 var current_component;
 function set_current_component(component) {
   current_component = component;
@@ -36349,8 +36189,6 @@ function bubble(component, event) {
     callbacks.slice().forEach((fn) => fn.call(this, event));
   }
 }
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/scheduler.js
 var dirty_components = [];
 var binding_callbacks = [];
 var render_callbacks = [];
@@ -36424,8 +36262,6 @@ function flush_render_callbacks(fns) {
   targets.forEach((c) => c());
   render_callbacks = filtered;
 }
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/transitions.js
 var promise;
 function wait() {
   if (!promise) {
@@ -36487,16 +36323,12 @@ function create_bidirectional_transition(node, fn, params, intro) {
   let running_program = null;
   let pending_program = null;
   let animation_name = null;
-  let original_inert_value;
   function clear_animation() {
     if (animation_name)
       delete_rule(node, animation_name);
   }
   function init3(program, duration) {
-    const d = (
-      /** @type {Program['d']} */
-      program.b - t
-    );
+    const d = program.b - t;
     duration *= Math.abs(d);
     return {
       a: t,
@@ -36509,13 +36341,7 @@ function create_bidirectional_transition(node, fn, params, intro) {
     };
   }
   function go(b) {
-    const {
-      delay: delay2 = 0,
-      duration = 300,
-      easing = identity,
-      tick: tick2 = noop,
-      css
-    } = config || null_transition;
+    const { delay: delay2 = 0, duration = 300, easing = identity, tick: tick2 = noop, css } = config || null_transition;
     const program = {
       start: now() + delay2,
       b
@@ -36523,17 +36349,6 @@ function create_bidirectional_transition(node, fn, params, intro) {
     if (!b) {
       program.group = outros;
       outros.r += 1;
-    }
-    if ("inert" in node) {
-      if (b) {
-        if (original_inert_value !== void 0) {
-          node.inert = original_inert_value;
-        }
-      } else {
-        original_inert_value = /** @type {HTMLElement} */
-        node.inert;
-        node.inert = true;
-      }
     }
     if (running_program || pending_program) {
       pending_program = program;
@@ -36553,15 +36368,7 @@ function create_bidirectional_transition(node, fn, params, intro) {
           dispatch(node, running_program.b, "start");
           if (css) {
             clear_animation();
-            animation_name = create_rule(
-              node,
-              t,
-              running_program.b,
-              running_program.duration,
-              0,
-              easing,
-              config.css
-            );
+            animation_name = create_rule(node, t, running_program.b, running_program.duration, 0, easing, config.css);
           }
         }
         if (running_program) {
@@ -36591,8 +36398,7 @@ function create_bidirectional_transition(node, fn, params, intro) {
     run(b) {
       if (is_function(config)) {
         wait().then(() => {
-          const opts = { direction: b ? "in" : "out" };
-          config = config(opts);
+          config = config(options);
           go(b);
         });
       } else {
@@ -36605,73 +36411,51 @@ function create_bidirectional_transition(node, fn, params, intro) {
     }
   };
 }
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/each.js
-init_polyfill_buffer();
-function ensure_array_like(array_like_or_iterator) {
-  return (array_like_or_iterator == null ? void 0 : array_like_or_iterator.length) !== void 0 ? array_like_or_iterator : Array.from(array_like_or_iterator);
-}
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/spread.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/ssr.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/shared/boolean_attributes.js
-init_polyfill_buffer();
-var _boolean_attributes = (
-  /** @type {const} */
-  [
-    "allowfullscreen",
-    "allowpaymentrequest",
-    "async",
-    "autofocus",
-    "autoplay",
-    "checked",
-    "controls",
-    "default",
-    "defer",
-    "disabled",
-    "formnovalidate",
-    "hidden",
-    "inert",
-    "ismap",
-    "loop",
-    "multiple",
-    "muted",
-    "nomodule",
-    "novalidate",
-    "open",
-    "playsinline",
-    "readonly",
-    "required",
-    "reversed",
-    "selected"
-  ]
-);
+var _boolean_attributes = [
+  "allowfullscreen",
+  "allowpaymentrequest",
+  "async",
+  "autofocus",
+  "autoplay",
+  "checked",
+  "controls",
+  "default",
+  "defer",
+  "disabled",
+  "formnovalidate",
+  "hidden",
+  "inert",
+  "ismap",
+  "loop",
+  "multiple",
+  "muted",
+  "nomodule",
+  "novalidate",
+  "open",
+  "playsinline",
+  "readonly",
+  "required",
+  "reversed",
+  "selected"
+];
 var boolean_attributes = /* @__PURE__ */ new Set([..._boolean_attributes]);
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/shared/utils/names.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/Component.js
-init_polyfill_buffer();
 function create_component(block) {
   block && block.c();
 }
-function mount_component(component, target, anchor) {
+function mount_component(component, target, anchor, customElement) {
   const { fragment, after_update } = component.$$;
   fragment && fragment.m(target, anchor);
-  add_render_callback(() => {
-    const new_on_destroy = component.$$.on_mount.map(run).filter(is_function);
-    if (component.$$.on_destroy) {
-      component.$$.on_destroy.push(...new_on_destroy);
-    } else {
-      run_all(new_on_destroy);
-    }
-    component.$$.on_mount = [];
-  });
+  if (!customElement) {
+    add_render_callback(() => {
+      const new_on_destroy = component.$$.on_mount.map(run).filter(is_function);
+      if (component.$$.on_destroy) {
+        component.$$.on_destroy.push(...new_on_destroy);
+      } else {
+        run_all(new_on_destroy);
+      }
+      component.$$.on_mount = [];
+    });
+  }
   after_update.forEach(add_render_callback);
 }
 function destroy_component(component, detaching) {
@@ -36743,7 +36527,7 @@ function init2(component, options, instance10, create_fragment10, not_equal, pro
     }
     if (options.intro)
       transition_in(component.$$.fragment);
-    mount_component(component, options.target, options.anchor);
+    mount_component(component, options.target, options.anchor, options.customElement);
     end_hydrating();
     flush();
   }
@@ -36752,208 +36536,53 @@ function init2(component, options, instance10, create_fragment10, not_equal, pro
 var SvelteElement;
 if (typeof HTMLElement === "function") {
   SvelteElement = class extends HTMLElement {
-    constructor($$componentCtor, $$slots, use_shadow_dom) {
+    constructor() {
       super();
-      __publicField(this, "$$componentCtor");
-      __publicField(this, "$$slots");
-      __publicField(this, "$$component");
-      __publicField(this, "$$connected", false);
-      __publicField(this, "$$data", {});
-      __publicField(this, "$$reflecting", false);
-      /** @type {Record<string, CustomElementPropDefinition>} */
-      __publicField(this, "$$props_definition", {});
-      /** @type {Record<string, Function[]>} */
-      __publicField(this, "$$listeners", {});
-      /** @type {Map<Function, Function>} */
-      __publicField(this, "$$listener_unsubscribe_fns", /* @__PURE__ */ new Map());
-      this.$$componentCtor = $$componentCtor;
-      this.$$slots = $$slots;
-      if (use_shadow_dom) {
-        this.attachShadow({ mode: "open" });
+      this.attachShadow({ mode: "open" });
+    }
+    connectedCallback() {
+      const { on_mount } = this.$$;
+      this.$$.on_disconnect = on_mount.map(run).filter(is_function);
+      for (const key2 in this.$$.slotted) {
+        this.appendChild(this.$$.slotted[key2]);
       }
     }
-    addEventListener(type, listener, options) {
-      this.$$listeners[type] = this.$$listeners[type] || [];
-      this.$$listeners[type].push(listener);
-      if (this.$$component) {
-        const unsub = this.$$component.$on(type, listener);
-        this.$$listener_unsubscribe_fns.set(listener, unsub);
-      }
-      super.addEventListener(type, listener, options);
-    }
-    removeEventListener(type, listener, options) {
-      super.removeEventListener(type, listener, options);
-      if (this.$$component) {
-        const unsub = this.$$listener_unsubscribe_fns.get(listener);
-        if (unsub) {
-          unsub();
-          this.$$listener_unsubscribe_fns.delete(listener);
-        }
-      }
-    }
-    async connectedCallback() {
-      this.$$connected = true;
-      if (!this.$$component) {
-        let create_slot = function(name) {
-          return () => {
-            let node;
-            const obj = {
-              c: function create() {
-                node = document.createElement("slot");
-                if (name !== "default") {
-                  node.setAttribute("name", name);
-                }
-              },
-              /**
-               * @param {HTMLElement} target
-               * @param {HTMLElement} [anchor]
-               */
-              m: function mount(target, anchor) {
-                insert(target, node, anchor);
-              },
-              d: function destroy(detaching) {
-                if (detaching) {
-                  detach(node);
-                }
-              }
-            };
-            return obj;
-          };
-        };
-        await Promise.resolve();
-        if (!this.$$connected) {
-          return;
-        }
-        const $$slots = {};
-        const existing_slots = get_custom_elements_slots(this);
-        for (const name of this.$$slots) {
-          if (name in existing_slots) {
-            $$slots[name] = [create_slot(name)];
-          }
-        }
-        for (const attribute of this.attributes) {
-          const name = this.$$get_prop_name(attribute.name);
-          if (!(name in this.$$data)) {
-            this.$$data[name] = get_custom_element_value(
-              name,
-              attribute.value,
-              this.$$props_definition,
-              "toProp"
-            );
-          }
-        }
-        this.$$component = new this.$$componentCtor({
-          target: this.shadowRoot || this,
-          props: {
-            ...this.$$data,
-            $$slots,
-            $$scope: {
-              ctx: []
-            }
-          }
-        });
-        for (const type in this.$$listeners) {
-          for (const listener of this.$$listeners[type]) {
-            const unsub = this.$$component.$on(type, listener);
-            this.$$listener_unsubscribe_fns.set(listener, unsub);
-          }
-        }
-        this.$$listeners = {};
-      }
-    }
-    // We don't need this when working within Svelte code, but for compatibility of people using this outside of Svelte
-    // and setting attributes through setAttribute etc, this is helpful
     attributeChangedCallback(attr2, _oldValue, newValue) {
-      var _a2;
-      if (this.$$reflecting)
-        return;
-      attr2 = this.$$get_prop_name(attr2);
-      this.$$data[attr2] = get_custom_element_value(
-        attr2,
-        newValue,
-        this.$$props_definition,
-        "toProp"
-      );
-      (_a2 = this.$$component) == null ? void 0 : _a2.$set({ [attr2]: this.$$data[attr2] });
+      this[attr2] = newValue;
     }
     disconnectedCallback() {
-      this.$$connected = false;
-      Promise.resolve().then(() => {
-        if (!this.$$connected) {
-          this.$$component.$destroy();
-          this.$$component = void 0;
-        }
-      });
+      run_all(this.$$.on_disconnect);
     }
-    $$get_prop_name(attribute_name) {
-      return Object.keys(this.$$props_definition).find(
-        (key2) => this.$$props_definition[key2].attribute === attribute_name || !this.$$props_definition[key2].attribute && key2.toLowerCase() === attribute_name
-      ) || attribute_name;
+    $destroy() {
+      destroy_component(this, 1);
+      this.$destroy = noop;
+    }
+    $on(type, callback) {
+      if (!is_function(callback)) {
+        return noop;
+      }
+      const callbacks = this.$$.callbacks[type] || (this.$$.callbacks[type] = []);
+      callbacks.push(callback);
+      return () => {
+        const index2 = callbacks.indexOf(callback);
+        if (index2 !== -1)
+          callbacks.splice(index2, 1);
+      };
+    }
+    $set($$props) {
+      if (this.$$set && !is_empty($$props)) {
+        this.$$.skip_bound = true;
+        this.$$set($$props);
+        this.$$.skip_bound = false;
+      }
     }
   };
 }
-function get_custom_element_value(prop, value, props_definition, transform) {
-  var _a2;
-  const type = (_a2 = props_definition[prop]) == null ? void 0 : _a2.type;
-  value = type === "Boolean" && typeof value !== "boolean" ? value != null : value;
-  if (!transform || !props_definition[prop]) {
-    return value;
-  } else if (transform === "toAttribute") {
-    switch (type) {
-      case "Object":
-      case "Array":
-        return value == null ? null : JSON.stringify(value);
-      case "Boolean":
-        return value ? "" : null;
-      case "Number":
-        return value == null ? null : value;
-      default:
-        return value;
-    }
-  } else {
-    switch (type) {
-      case "Object":
-      case "Array":
-        return value && JSON.parse(value);
-      case "Boolean":
-        return value;
-      case "Number":
-        return value != null ? +value : value;
-      default:
-        return value;
-    }
-  }
-}
 var SvelteComponent = class {
-  constructor() {
-    /**
-     * ### PRIVATE API
-     *
-     * Do not use, may change at any time
-     *
-     * @type {any}
-     */
-    __publicField(this, "$$");
-    /**
-     * ### PRIVATE API
-     *
-     * Do not use, may change at any time
-     *
-     * @type {any}
-     */
-    __publicField(this, "$$set");
-  }
-  /** @returns {void} */
   $destroy() {
     destroy_component(this, 1);
     this.$destroy = noop;
   }
-  /**
-   * @template {Extract<keyof Events, string>} K
-   * @param {K} type
-   * @param {((e: Events[K]) => void) | null | undefined} callback
-   * @returns {() => void}
-   */
   $on(type, callback) {
     if (!is_function(callback)) {
       return noop;
@@ -36966,32 +36595,16 @@ var SvelteComponent = class {
         callbacks.splice(index2, 1);
     };
   }
-  /**
-   * @param {Partial<Props>} props
-   * @returns {void}
-   */
-  $set(props) {
-    if (this.$$set && !is_empty(props)) {
+  $set($$props) {
+    if (this.$$set && !is_empty($$props)) {
       this.$$.skip_bound = true;
-      this.$$set(props);
+      this.$$set($$props);
       this.$$.skip_bound = false;
     }
   }
 };
 
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/dev.js
-init_polyfill_buffer();
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/shared/version.js
-init_polyfill_buffer();
-var PUBLIC_VERSION = "4";
-
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/internal/disclose-version/index.js
-init_polyfill_buffer();
-if (typeof window !== "undefined")
-  (window.__svelte || (window.__svelte = { v: /* @__PURE__ */ new Set() })).v.add(PUBLIC_VERSION);
-
-// node_modules/.pnpm/tslib@2.6.0/node_modules/tslib/tslib.es6.mjs
+// node_modules/.pnpm/tslib@2.5.0/node_modules/tslib/tslib.es6.js
 init_polyfill_buffer();
 function __awaiter(thisArg, _arguments, P, generator) {
   function adopt(value) {
@@ -37024,42 +36637,36 @@ function __awaiter(thisArg, _arguments, P, generator) {
 // src/ui/history/historyView.svelte
 var import_obsidian19 = require("obsidian");
 
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/index.js
+// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/index.mjs
 init_polyfill_buffer();
 
 // src/ui/history/components/logComponent.svelte
 init_polyfill_buffer();
 
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/transition/index.js
+// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/transition/index.mjs
 init_polyfill_buffer();
 
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/easing/index.js
+// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/easing/index.mjs
 init_polyfill_buffer();
 function cubicOut(t) {
   const f = t - 1;
   return f * f * f + 1;
 }
 
-// node_modules/.pnpm/svelte@4.0.0/node_modules/svelte/src/runtime/transition/index.js
+// node_modules/.pnpm/svelte@3.59.0/node_modules/svelte/transition/index.mjs
 function slide(node, { delay: delay2 = 0, duration = 400, easing = cubicOut, axis = "y" } = {}) {
   const style = getComputedStyle(node);
   const opacity = +style.opacity;
   const primary_property = axis === "y" ? "height" : "width";
   const primary_property_value = parseFloat(style[primary_property]);
   const secondary_properties = axis === "y" ? ["top", "bottom"] : ["left", "right"];
-  const capitalized_secondary_properties = secondary_properties.map(
-    (e) => `${e[0].toUpperCase()}${e.slice(1)}`
-  );
+  const capitalized_secondary_properties = secondary_properties.map((e) => `${e[0].toUpperCase()}${e.slice(1)}`);
   const padding_start_value = parseFloat(style[`padding${capitalized_secondary_properties[0]}`]);
   const padding_end_value = parseFloat(style[`padding${capitalized_secondary_properties[1]}`]);
   const margin_start_value = parseFloat(style[`margin${capitalized_secondary_properties[0]}`]);
   const margin_end_value = parseFloat(style[`margin${capitalized_secondary_properties[1]}`]);
-  const border_width_start_value = parseFloat(
-    style[`border${capitalized_secondary_properties[0]}Width`]
-  );
-  const border_width_end_value = parseFloat(
-    style[`border${capitalized_secondary_properties[1]}Width`]
-  );
+  const border_width_start_value = parseFloat(style[`border${capitalized_secondary_properties[0]}Width`]);
+  const border_width_end_value = parseFloat(style[`border${capitalized_secondary_properties[1]}Width`]);
   return {
     delay: delay2,
     duration,
@@ -37104,9 +36711,8 @@ function create_if_block(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       ctx[7](null);
       mounted = false;
       run_all(dispose);
@@ -37261,9 +36867,8 @@ function create_fragment(ctx) {
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       if (if_block)
         if_block.d();
       mounted = false;
@@ -37390,15 +36995,6 @@ function create_else_block(ctx) {
       set_style(div0, "padding-right", "5px");
       set_style(div0, "display", "flex");
       attr(div1, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
-      toggle_class(
-        div1,
-        "is-collapsed",
-        /*closed*/
-        ctx[4][
-          /*entity*/
-          ctx[8].title
-        ]
-      );
       attr(div2, "class", "tree-item-inner nav-folder-title-content svelte-1lnl15d");
       attr(div3, "class", "tree-item-self is-clickable nav-folder-title");
       attr(
@@ -37441,18 +37037,6 @@ function create_else_block(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if (!current || dirty & /*closed, hierarchy*/
-      17) {
-        toggle_class(
-          div1,
-          "is-collapsed",
-          /*closed*/
-          ctx[4][
-            /*entity*/
-            ctx[8].title
-          ]
-        );
-      }
       if ((!current || dirty & /*hierarchy*/
       1) && t2_value !== (t2_value = /*entity*/
       ctx[8].title + ""))
@@ -37519,9 +37103,8 @@ function create_else_block(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div4);
-      }
       if (if_block)
         if_block.d();
       mounted = false;
@@ -37581,9 +37164,8 @@ function create_if_block2(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       destroy_component(logfilecomponent);
     }
   };
@@ -37661,9 +37243,8 @@ function create_if_block_1(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       destroy_component(logtreecomponent);
       if (detaching && div_transition)
         div_transition.end();
@@ -37730,17 +37311,16 @@ function create_each_block(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
-        detach(if_block_anchor);
-      }
       if_blocks[current_block_type_index].d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
     }
   };
 }
 function create_fragment2(ctx) {
   let main;
   let current;
-  let each_value = ensure_array_like(
+  let each_value = (
     /*hierarchy*/
     ctx[0].children
   );
@@ -37777,10 +37357,8 @@ function create_fragment2(ctx) {
     p(ctx2, [dirty]) {
       if (dirty & /*hierarchy, view, closed, plugin, side, fold*/
       119) {
-        each_value = ensure_array_like(
-          /*hierarchy*/
-          ctx2[0].children
-        );
+        each_value = /*hierarchy*/
+        ctx2[0].children;
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context(ctx2, each_value, i);
@@ -37826,9 +37404,8 @@ function create_fragment2(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       destroy_each(each_blocks, detaching);
     }
   };
@@ -37917,9 +37494,8 @@ function create_if_block_2(ctx) {
         set_data(t, t_value);
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
     }
   };
 }
@@ -37999,9 +37575,8 @@ function create_if_block3(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -38011,7 +37586,7 @@ function create_if_block3(ctx) {
 function create_else_block2(ctx) {
   let each_1_anchor;
   let current;
-  let each_value = ensure_array_like(
+  let each_value = (
     /*log*/
     ctx[0].diff.files
   );
@@ -38041,10 +37616,8 @@ function create_else_block2(ctx) {
     p(ctx2, dirty) {
       if (dirty & /*view, log*/
       3) {
-        each_value = ensure_array_like(
-          /*log*/
-          ctx2[0].diff.files
-        );
+        each_value = /*log*/
+        ctx2[0].diff.files;
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context2(ctx2, each_value, i);
@@ -38081,10 +37654,9 @@ function create_else_block2(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
-        detach(each_1_anchor);
-      }
       destroy_each(each_blocks, detaching);
+      if (detaching)
+        detach(each_1_anchor);
     }
   };
 }
@@ -38240,12 +37812,6 @@ function create_fragment3(ctx) {
       if (if_block1)
         if_block1.c();
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
-      toggle_class(
-        div0,
-        "is-collapsed",
-        /*isCollapsed*/
-        ctx[4]
-      );
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
       attr(div1, "aria-label", div1_aria_label_value = /*log*/
       ctx[0].message);
@@ -38291,15 +37857,6 @@ function create_fragment3(ctx) {
       }
     },
     p(ctx2, [dirty]) {
-      if (!current || dirty & /*isCollapsed*/
-      16) {
-        toggle_class(
-          div0,
-          "is-collapsed",
-          /*isCollapsed*/
-          ctx2[4]
-        );
-      }
       if (
         /*log*/
         ctx2[0].refs.length > 0
@@ -38375,9 +37932,8 @@ function create_fragment3(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       if (if_block0)
         if_block0.d();
       if (if_block1)
@@ -38443,7 +37999,7 @@ function create_if_block4(ctx) {
   let div1;
   let div0;
   let current;
-  let each_value = ensure_array_like(
+  let each_value = (
     /*logs*/
     ctx[6]
   );
@@ -38477,10 +38033,8 @@ function create_if_block4(ctx) {
     p(ctx2, dirty) {
       if (dirty & /*view, showTree, logs, plugin*/
       71) {
-        each_value = ensure_array_like(
-          /*logs*/
-          ctx2[6]
-        );
+        each_value = /*logs*/
+        ctx2[6];
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context3(ctx2, each_value, i);
@@ -38517,9 +38071,8 @@ function create_if_block4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div1);
-      }
       destroy_each(each_blocks, detaching);
     }
   };
@@ -38709,9 +38262,8 @@ function create_fragment4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       ctx[7](null);
       ctx[9](null);
       if (if_block)
@@ -38978,10 +38530,10 @@ var DiscardModal = class extends import_obsidian23.Modal {
 init_polyfill_buffer();
 var import_obsidian25 = require("obsidian");
 
-// node_modules/.pnpm/obsidian-community-lib@2.0.2_@codemirror+state@6.2.1_@codemirror+view@6.14.0/node_modules/obsidian-community-lib/dist/index.js
+// node_modules/.pnpm/obsidian-community-lib@2.0.2_fbkkrmn4giwwsr5htt45gr2jni/node_modules/obsidian-community-lib/dist/index.js
 init_polyfill_buffer();
 
-// node_modules/.pnpm/obsidian-community-lib@2.0.2_@codemirror+state@6.2.1_@codemirror+view@6.14.0/node_modules/obsidian-community-lib/dist/utils.js
+// node_modules/.pnpm/obsidian-community-lib@2.0.2_fbkkrmn4giwwsr5htt45gr2jni/node_modules/obsidian-community-lib/dist/utils.js
 init_polyfill_buffer();
 var feather = __toESM(require_feather());
 var import_obsidian24 = require("obsidian");
@@ -39030,9 +38582,8 @@ function create_if_block5(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       ctx[11](null);
       mounted = false;
       run_all(dispose);
@@ -39221,9 +38772,8 @@ function create_fragment5(ctx) {
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       if (if_block)
         if_block.d();
       ctx[12](null);
@@ -39465,9 +39015,8 @@ function create_fragment6(ctx) {
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       mounted = false;
       run_all(dispose);
     }
@@ -39545,9 +39094,8 @@ function create_if_block6(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       ctx[10](null);
       mounted = false;
       dispose();
@@ -39722,9 +39270,8 @@ function create_fragment7(ctx) {
     i: noop,
     o: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       if (if_block)
         if_block.d();
       ctx[11](null);
@@ -39907,15 +39454,6 @@ function create_else_block3(ctx) {
       set_style(div0, "padding-right", "5px");
       set_style(div0, "display", "flex");
       attr(div1, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
-      toggle_class(
-        div1,
-        "is-collapsed",
-        /*closed*/
-        ctx[5][
-          /*entity*/
-          ctx[15].title
-        ]
-      );
       attr(div2, "class", "tree-item-inner nav-folder-title-content svelte-1lnl15d");
       set_style(div3, "width", "11px");
       attr(div4, "class", "buttons");
@@ -39967,18 +39505,6 @@ function create_else_block3(ctx) {
     },
     p(new_ctx, dirty) {
       ctx = new_ctx;
-      if (!current || dirty & /*closed, hierarchy*/
-      33) {
-        toggle_class(
-          div1,
-          "is-collapsed",
-          /*closed*/
-          ctx[5][
-            /*entity*/
-            ctx[15].title
-          ]
-        );
-      }
       if ((!current || dirty & /*hierarchy*/
       1) && t2_value !== (t2_value = /*entity*/
       ctx[15].title + ""))
@@ -40055,9 +39581,8 @@ function create_else_block3(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div7);
-      }
       if_block0.d();
       if (if_block1)
         if_block1.d();
@@ -40151,9 +39676,8 @@ function create_if_block7(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       if (~current_block_type_index) {
         if_blocks[current_block_type_index].d();
       }
@@ -40214,11 +39738,12 @@ function create_else_block_1(ctx) {
       ctx = new_ctx;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div0);
+      if (detaching)
         detach(t);
+      if (detaching)
         detach(div1);
-      }
       mounted = false;
       run_all(dispose);
     }
@@ -40256,9 +39781,8 @@ function create_if_block_5(ctx) {
       ctx = new_ctx;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       mounted = false;
       dispose();
     }
@@ -40345,9 +39869,8 @@ function create_if_block_4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       destroy_component(treecomponent);
       if (detaching && div_transition)
         div_transition.end();
@@ -40580,17 +40103,16 @@ function create_each_block4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
-        detach(if_block_anchor);
-      }
       if_blocks[current_block_type_index].d(detaching);
+      if (detaching)
+        detach(if_block_anchor);
     }
   };
 }
 function create_fragment8(ctx) {
   let main;
   let current;
-  let each_value = ensure_array_like(
+  let each_value = (
     /*hierarchy*/
     ctx[0].children
   );
@@ -40627,10 +40149,8 @@ function create_fragment8(ctx) {
     p(ctx2, [dirty]) {
       if (dirty & /*hierarchy, plugin, view, fileType, FileType, closed, fold, side, unstage, stage, discard*/
       2031) {
-        each_value = ensure_array_like(
-          /*hierarchy*/
-          ctx2[0].children
-        );
+        each_value = /*hierarchy*/
+        ctx2[0].children;
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context4(ctx2, each_value, i);
@@ -40676,9 +40196,8 @@ function create_fragment8(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       destroy_each(each_blocks, detaching);
     }
   };
@@ -40823,9 +40342,8 @@ function create_if_block_8(ctx) {
     },
     p: noop,
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       mounted = false;
       dispose();
     }
@@ -40935,8 +40453,6 @@ function create_if_block8(ctx) {
       if (if_block2)
         if_block2.c();
       attr(div0, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
-      toggle_class(div0, "is-collapsed", !/*stagedOpen*/
-      ctx[13]);
       attr(div1, "class", "tree-item-inner nav-folder-title-content");
       attr(div2, "data-icon", "minus");
       attr(div2, "aria-label", "Unstage");
@@ -40949,8 +40465,6 @@ function create_if_block8(ctx) {
       toggle_class(div7, "is-collapsed", !/*stagedOpen*/
       ctx[13]);
       attr(div8, "class", "tree-item-icon nav-folder-collapse-indicator collapse-icon");
-      toggle_class(div8, "is-collapsed", !/*changesOpen*/
-      ctx[12]);
       attr(div9, "class", "tree-item-inner nav-folder-title-content");
       attr(div10, "data-icon", "undo");
       attr(div10, "aria-label", "Discard");
@@ -41041,11 +40555,6 @@ function create_if_block8(ctx) {
       }
     },
     p(ctx2, dirty) {
-      if (!current || dirty[0] & /*stagedOpen*/
-      8192) {
-        toggle_class(div0, "is-collapsed", !/*stagedOpen*/
-        ctx2[13]);
-      }
       if ((!current || dirty[0] & /*status*/
       64) && t4_value !== (t4_value = /*status*/
       ctx2[6].staged.length + ""))
@@ -41077,11 +40586,6 @@ function create_if_block8(ctx) {
       8192) {
         toggle_class(div7, "is-collapsed", !/*stagedOpen*/
         ctx2[13]);
-      }
-      if (!current || dirty[0] & /*changesOpen*/
-      4096) {
-        toggle_class(div8, "is-collapsed", !/*changesOpen*/
-        ctx2[12]);
       }
       if ((!current || dirty[0] & /*status*/
       64) && t12_value !== (t12_value = /*status*/
@@ -41154,9 +40658,8 @@ function create_if_block8(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div18);
-      }
       ctx[34](null);
       if (if_block0)
         if_block0.d();
@@ -41246,9 +40749,8 @@ function create_if_block_6(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -41258,7 +40760,7 @@ function create_if_block_6(ctx) {
 function create_else_block_2(ctx) {
   let each_1_anchor;
   let current;
-  let each_value_2 = ensure_array_like(
+  let each_value_2 = (
     /*status*/
     ctx[6].staged
   );
@@ -41288,10 +40790,8 @@ function create_else_block_2(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*status, view, plugin*/
       67) {
-        each_value_2 = ensure_array_like(
-          /*status*/
-          ctx2[6].staged
-        );
+        each_value_2 = /*status*/
+        ctx2[6].staged;
         let i;
         for (i = 0; i < each_value_2.length; i += 1) {
           const child_ctx = get_each_context_2(ctx2, each_value_2, i);
@@ -41328,10 +40828,9 @@ function create_else_block_2(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
-        detach(each_1_anchor);
-      }
       destroy_each(each_blocks, detaching);
+      if (detaching)
+        detach(each_1_anchor);
     }
   };
 }
@@ -41529,9 +41028,8 @@ function create_if_block_42(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -41541,7 +41039,7 @@ function create_if_block_42(ctx) {
 function create_else_block_12(ctx) {
   let each_1_anchor;
   let current;
-  let each_value_1 = ensure_array_like(
+  let each_value_1 = (
     /*status*/
     ctx[6].changed
   );
@@ -41571,10 +41069,8 @@ function create_else_block_12(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*status, view, plugin*/
       67) {
-        each_value_1 = ensure_array_like(
-          /*status*/
-          ctx2[6].changed
-        );
+        each_value_1 = /*status*/
+        ctx2[6].changed;
         let i;
         for (i = 0; i < each_value_1.length; i += 1) {
           const child_ctx = get_each_context_1(ctx2, each_value_1, i);
@@ -41611,10 +41107,9 @@ function create_else_block_12(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
-        detach(each_1_anchor);
-      }
       destroy_each(each_blocks, detaching);
+      if (detaching)
+        detach(each_1_anchor);
     }
   };
 }
@@ -41849,9 +41344,8 @@ function create_if_block_14(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div3);
-      }
       if (if_block)
         if_block.d();
       mounted = false;
@@ -41935,9 +41429,8 @@ function create_if_block_23(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(div);
-      }
       if_blocks[current_block_type_index].d();
       if (detaching && div_transition)
         div_transition.end();
@@ -41947,7 +41440,7 @@ function create_if_block_23(ctx) {
 function create_else_block4(ctx) {
   let each_1_anchor;
   let current;
-  let each_value = ensure_array_like(
+  let each_value = (
     /*lastPulledFiles*/
     ctx[7]
   );
@@ -41977,10 +41470,8 @@ function create_else_block4(ctx) {
     p(ctx2, dirty) {
       if (dirty[0] & /*lastPulledFiles, view*/
       130) {
-        each_value = ensure_array_like(
-          /*lastPulledFiles*/
-          ctx2[7]
-        );
+        each_value = /*lastPulledFiles*/
+        ctx2[7];
         let i;
         for (i = 0; i < each_value.length; i += 1) {
           const child_ctx = get_each_context5(ctx2, each_value, i);
@@ -42017,10 +41508,9 @@ function create_else_block4(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
-        detach(each_1_anchor);
-      }
       destroy_each(each_blocks, detaching);
+      if (detaching)
+        detach(each_1_anchor);
     }
   };
 }
@@ -42434,9 +41924,8 @@ function create_fragment9(ctx) {
       current = false;
     },
     d(detaching) {
-      if (detaching) {
+      if (detaching)
         detach(main);
-      }
       ctx[23](null);
       ctx[24](null);
       ctx[25](null);
@@ -42945,18 +42434,12 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     this.addCommand({
       id: "view-file-on-github",
       name: "Open file on GitHub",
-      editorCallback: (editor, { file }) => {
-        if (file)
-          return openLineInGitHub(editor, file, this.gitManager);
-      }
+      editorCallback: (editor, { file }) => openLineInGitHub(editor, file, this.gitManager)
     });
     this.addCommand({
       id: "view-history-on-github",
       name: "Open file history on GitHub",
-      editorCallback: (_, { file }) => {
-        if (file)
-          return openHistoryInGitHub(file, this.gitManager);
-      }
+      editorCallback: (_, { file }) => openHistoryInGitHub(file, this.gitManager)
     });
     this.addCommand({
       id: "pull",
@@ -43439,7 +42922,7 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
     if (url) {
       const confirmOption = "Vault Root";
       let dir = await new GeneralModal({
-        options: this.gitManager instanceof IsomorphicGit ? [confirmOption] : [],
+        options: [confirmOption],
         placeholder: "Enter directory for clone. It needs to be empty or not existent.",
         allowEmpty: this.gitManager instanceof IsomorphicGit
       }).open();
@@ -43644,6 +43127,10 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         committedFiles = await this.gitManager.commit(cmtMessage);
       } else {
         committedFiles = await this.gitManager.commitAll({
+          // A type error occurs here because `this.settings.autoCommitMessage` is possibly undefined.
+          // However, since `this.settings.autoCommitMessage` is always set to string in `this.migrateSettings`,
+          // `undefined` is never passed here. Therefore, temporarily ignore this error.
+          // @ts-ignore
           message: cmtMessage,
           status: status2,
           unstagedFiles
@@ -43731,7 +43218,6 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       }
       this.offlineMode = false;
       this.setState(0 /* idle */);
-      dispatchEvent(new CustomEvent("git-refresh"));
       return true;
     }
   }

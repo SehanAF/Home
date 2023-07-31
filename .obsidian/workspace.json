@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cc9e9fc15e81aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Learning Python/Python Quickstart/333. Logical Operators.md",
+                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
+                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
+                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md"
+                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md"
               }
             }
           },
@@ -191,48 +179,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e2a200c9bcbf6022",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Todo.md",
-    "Penting!!.md",
-    "Untitled 2.md",
+    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/27. Definisi Overfitting dan Underfitting.md",
+    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/24. Pemodelan - Memilih Model II.md",
+    "Lecture Computer Networking/Network Cabling III.md",
+    "Lecture Computer Networking/Network Cabling II.md",
+    "Lecture Computer Networking/Introduction network address translation.md",
+    "Lecture Machine Learning/Section 2 Machine Learning 101/5. Apa itu Pembelajaran Mesin.md",
+    "Lecture Ethical Hacking/Section 2 Setting Up Our Hacking Lab/19.5 Stages Of A Penetration Test.md",
+    "Lecture Ethical Hacking/Section 2 Setting Up Our Hacking Lab/8. Mengapa Linux.md",
+    "Lecture Learning English/Jadwal/3. Wednesday are for Listening.md",
+    "Lecture Learning English/Jadwal/5. Friday are for Vocabularys.md",
+    "Lecture Teknik Informatika/Introduction to TI/2. Computer Basics/2.1. How Computers Work/Introduction.md",
+    "Lecture Teknik Informatika/Introduction to TI/2. Computer Basics/2.1. How Computers Work/Input.md",
+    "Command Jupyter.md",
     "Untitled 3.md",
+    "Untitled 2.md",
+    "Penting!!.md",
+    "Untitled 1.md",
+    "Todo.md",
+    "Untitled.md",
+    "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
     "Lecture Learning Python/Python Quickstart/347. Functions.md",
     "Lecture Learning Python/Python Quickstart/343. break, continue, pass.md",
     "Lecture Learning Python/Python Quickstart/341. While Loops.md",
     "Lecture Learning Python/Python Quickstart/340. enumerate().md",
     "Lecture Learning Python/Python Quickstart/339. range().md",
     "Lecture Learning Python/Python Quickstart/Untitled 7.md",
-    "Lecture Learning Python/Python Quickstart/Untitled 5.md",
-    "Lecture Learning Python/Python Quickstart/Untitled 4.md",
-    "Lecture Learning Python/Python Quickstart/337. Iterables.md",
-    "Lecture Learning Python/Python Quickstart/336. For Loops.md",
-    "Lecture Learning Python/Python Quickstart/335. is vs ==.md",
-    "Lecture Learning Python/Python Quickstart/333. Logical Operators.md",
-    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/08 - Lists.md",
-    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/19. Jenis Masalah Pembelajaran Mesin.md",
-    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/18. Kerangka Pembelajaran Mesin 6 Langkah.md",
-    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/17. Introducing Our Framework.md",
-    "Lecture Machine Learning/Section 2 Machine Learning 101/13. Apa itu Pembelajaran Mesin, Ronde 2.md",
-    "Lecture Machine Learning/Section 2 Machine Learning 101/11. Jenis Pembelajaran Mesin.md",
-    "Lecture Machine Learning/Section 2 Machine Learning 101/9. Bagaimana kita sampai disini.md",
-    "Lecture Machine Learning/Section 2 Machine Learning 101/6. AI, Machine Learning, Data Science.md",
-    "Lecture Machine Learning/Section 2 Machine Learning 101/5. Apa itu Pembelajaran Mesin.md",
     "Attachments/Pasted image 20230724150636.png",
     "Attachments",
     "Lecture Computer Vision/Attachments/cs231n_2017_lecture1.pdf",
