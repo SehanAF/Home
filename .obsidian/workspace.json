@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2a200c9bcbf6022",
+            "id": "0ef2885c7ce898fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md",
+                "file": "Daily Note/Oct 17, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5be87e1a0e51c43c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,7 @@
       {
         "id": "dfa28b0d33c731ad",
         "type": "tabs",
-        "dimension": 41.0958904109589,
+        "dimension": 35.75,
         "children": [
           {
             "id": "f69645b5d1eeae72",
@@ -39,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Variabel",
+                "query": "#Str",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +65,7 @@
       {
         "id": "961724dd71e7e57a",
         "type": "tabs",
-        "dimension": 58.9041095890411,
+        "dimension": 64.25,
         "children": [
           {
             "id": "560f7afa2198be80",
@@ -85,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5110321044922
+    "width": 283.5
   },
   "right": {
     "id": "81ec2a65f77606c2",
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md",
+                "file": "Daily Note/Oct 17, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md",
+                "file": "Daily Note/Oct 17, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/28. Eksperimen.md"
+                "file": "Daily Note/Oct 17, 2023.md"
               }
             }
           },
@@ -168,9 +180,18 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "73a9811974fbb667",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,9 +200,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,58 +207,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2a200c9bcbf6022",
+  "active": "0ef2885c7ce898fe",
   "lastOpenFiles": [
-    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/27. Definisi Overfitting dan Underfitting.md",
-    "Lecture Machine Learning/Section 3 Machine Learning and Data Science Framework/24. Pemodelan - Memilih Model II.md",
-    "Lecture Computer Networking/Network Cabling III.md",
-    "Lecture Computer Networking/Network Cabling II.md",
-    "Lecture Computer Networking/Introduction network address translation.md",
-    "Lecture Machine Learning/Section 2 Machine Learning 101/5. Apa itu Pembelajaran Mesin.md",
-    "Lecture Ethical Hacking/Section 2 Setting Up Our Hacking Lab/19.5 Stages Of A Penetration Test.md",
-    "Lecture Ethical Hacking/Section 2 Setting Up Our Hacking Lab/8. Mengapa Linux.md",
-    "Lecture Learning English/Jadwal/3. Wednesday are for Listening.md",
-    "Lecture Learning English/Jadwal/5. Friday are for Vocabularys.md",
-    "Lecture Teknik Informatika/Introduction to TI/2. Computer Basics/2.1. How Computers Work/Introduction.md",
-    "Lecture Teknik Informatika/Introduction to TI/2. Computer Basics/2.1. How Computers Work/Input.md",
-    "Command Jupyter.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Penting!!.md",
-    "Untitled 1.md",
-    "Todo.md",
-    "Untitled.md",
-    "Lecture Ethical Hacking/Section 4 Reconnaissance & Information Gathering/26. Obtaining IP Address, Physical Address Using Whois Tool.md",
-    "Lecture Learning Python/Python Quickstart/347. Functions.md",
-    "Lecture Learning Python/Python Quickstart/343. break, continue, pass.md",
-    "Lecture Learning Python/Python Quickstart/341. While Loops.md",
-    "Lecture Learning Python/Python Quickstart/340. enumerate().md",
-    "Lecture Learning Python/Python Quickstart/339. range().md",
-    "Lecture Learning Python/Python Quickstart/Untitled 7.md",
-    "Attachments/Pasted image 20230724150636.png",
-    "Attachments",
-    "Lecture Computer Vision/Attachments/cs231n_2017_lecture1.pdf",
-    "Lecture Computer Vision/Attachments",
-    "Lecture Computer Vision",
-    "Lecture Learning Python/Python Quickstart/Untitled",
-    "Lecture Introduction to Computational Thinking",
-    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619142521.png",
-    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619142425.png",
-    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619142352.png",
-    "Lecture College Algebra - Full Course/Lecture Notes/Attachments/Pasted image 20230619134622.png",
-    "Lecture College Algebra - Full Course/Lecture Notes/Attachments",
-    "Lecture College Algebra - Full Course/Lecture Notes",
-    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618162512.png",
-    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618161704.png",
-    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618160504.png",
-    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618160421.png",
-    "Lecture Learning Python/Python Quickstart/Attachments/Pasted image 20230618160342.png",
-    "Lecture Learning Python/Python Quickstart/Attachments",
-    "Lecture Learning Python/Python Quickstart",
+    "Daily Note/Oct 16, 2023.md",
+    "Daily Note/Oct 17, 2023.md",
+    "Daily Note/Oct 14, 2023.md",
+    "Lecture Learning Python/Python for Everybody - Full University Python Course/Lecture Notes/01 - Intro A - Python for Everybody Course.md",
+    "Lecture Algebra/College Algebra/Lecture Notes/2. Simplifying using Exponent Rules.md",
+    "Mata Kuliah TI/Logika Informatika/Lecture notes/2. Operator Logika.md",
+    "Mata Kuliah TI/Logika Informatika/Lecture notes/1. Pengenalan Logika.md",
+    "Mata Kuliah TI/Logika Informatika/Pengenalan.md",
+    "Mata Kuliah TI/Algoritma dan Struktur Data/Lecture notes/1. Variabel & Tipe Data (Java).md",
+    "Mata Kuliah TI/Algoritma dan Struktur Data/Lecture notes/0. Algorithm & Pseudocode.md",
+    "Lecture  Platform App Development/0. Intro - Free Flutter Course.md",
+    "Lecture  Platform App Development/Dart",
+    "Lecture  Platform App Development",
+    "Daily Note/Oct 12, 2023.md",
+    "Mata Kuliah TI/Organisasi dan Arsitektur Komputer/Lecture Notes/4. Internal Memory.md",
+    "Command Prompt/Command ChatGPT.md",
+    "Mata Kuliah TI/Organisasi dan Arsitektur Komputer/Command Prompt.md",
+    "Mata Kuliah TI/Organisasi dan Arsitektur Komputer/Lecture Notes",
+    "Attachments/ORKOM Pertemuan 4  Internal Memory.pdf",
+    "Mata Kuliah TI/Organisasi dan Arsitektur Komputer/Introduction Organization & Computer Architecture.md",
+    "Daily Note/Sep 25, 2023.md",
+    "Lecture Learning Python/100 Days of Code, The Complete Python Pro Bootcamp for 2023/Day 3/31. Nested if statements and elif statements.md",
+    "Mata Kuliah TI/Organisasi dan Arsitektur Komputer/Pengenalan.md",
+    "Daily Note/Oct 10, 2023.md",
+    "Daily Note/Oct 09, 2023.md",
+    "Daily Note/Oct 07, 2023.md",
+    "Resource Learning/Youtube Channel/Arsitektur Komputer.md",
+    "Daily Note/Oct 05, 2023.md",
+    "Resource Learning/Youtube Channel",
+    "Resource Learning",
+    "Daily Note/Oct 04, 2023.md",
+    "Mata Kuliah TI/Logika Informatika/Detail/Content.md",
+    "Attachments/2. Variabel dan Tipe Data 1.pdf",
+    "Attachments/2. Variabel dan Tipe Data.pptx",
+    "Attachments/2. Tugas Variabel & Tipe Data (1).pdf",
+    "Attachments/2. Variabel dan Tipe Data.pdf",
+    "Attachments/Pasted image 20230928115507.png",
+    "Attachments/Pasted image 20230928115457.png",
+    "Attachments/Pasted image 20230928115441.png",
+    "Attachments/Pasted image 20230928115324.png",
+    "Attachments/Pasted image 20230926083413.png",
+    "Attachments/Pasted image 20230926083243.png",
+    "Attachments/Pasted image 20230926082912.png",
+    "Attachments/Pasted image 20230926082850.png",
+    "Attachments/Pasted image 20230926082548.png",
+    "Attachments/Pasted image 20230926082436.png",
     "Untitled.canvas",
     "Lecture College Algebra - Full Course/Untitled.canvas"
   ]

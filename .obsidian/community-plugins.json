@@ -12,5 +12,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "remotely-save",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "obsidian-linter",
+  "numerals"
 ]

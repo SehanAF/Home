@@ -1,42 +1,10 @@
- ### Erigo
+## Glosarium
 
-1. Celana chino {1} = 108rb
-2. baju {4}= 272rb
-3. kemeja flannel {1} = 88rb
-4. kemeja hitam {1} = 80rb
-5. Jaket {3} = 297rb
+Ini adalah glosarium dengan istilah umum yang digunakan di dalam kelas. Anda dapat membaca sekilas materi ini untuk mengenali istilah-istilah umum yang ada di modul kelas ini. Selain itu, Anda juga dapat mengunjungi kembali halaman ini setiap kali menemukan istilah yang belum dimengerti. Carilah istilah tersebut pada laman glosarium ini untuk mengidentifikasi makna atau definisinya. Jika masih terdapat kosakata yang tidak Anda pahami dan belum masuk di daftar ini, Anda dapat memberikan saran melalui fitur Laporan Materi.
 
-Total = 845rb
+  
 
-### Alba Project
+### A
 
-1. Tas Kuliah {1} = 200rb
-
-Total = 200rb
-
-### Tak Bermerek
-
-1. Baju Polos hitam = 39rb
-2. Celana Jeans = 109rb
-3. Hordeng Jendela PVC = 152rb
-4. Hordeng biasa + Batang = 253rb
-5. Meja Belajar = 420rb
-
-Total = 973rb
-
-### Lensa
-
-1. Lensa Photochromic = 300rb
-
-Total = 300rb
-
-# Total Semua:
-
-2318rb = 2,318 Jt.
-
-# Uang sisa:
-
-682rb 
-
-
-![[Pasted image 20230724150636.png]]
+**Abstract Class**  
+Sebuah _class_ yang ditandai dengan keyword “abstract”, yang mempunyai beberapa properti dan atau fungsi yang belum terdapat implementasinya. Class ini harus diimplementasi terlebih dahulu oleh _class_ lainnya agar bisa diinisiasi.

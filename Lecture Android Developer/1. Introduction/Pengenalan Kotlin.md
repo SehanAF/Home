@@ -1,0 +1,17 @@
+# Apa itu Kotlin?
+
+![[Pasted image 20230915191802.png]]
+
+Pada tahun 2010 lalu **JetBrains** memulai sebuah proyek open-sources baru. Proyek ini merupakan sebuah bahasa pemrograman _statically typed_ yang menargetkan **JVM**, **Android**, **JavaScript** dan **Native** [[1]](https://kotlinlang.org/docs/faq.html). **Kotlin** -nama sebuah pulau di Rusia- menjadi inspirasi oleh tim pengembang untuk ditetapkan sebagai nama bahasa pemrograman tersebut. Mungkin karena pulau tersebut terletak tidak jauh dari markas tim programer JetBrains, yaitu Saint Petersburg, Rusia. Bahasa Kotlin pertama kali dirilis pada bulan Februari 2016 dengan versi 1.0. Saat ini sudah mencapai **versi 1.5.21** per rilis 14 Juli 2021. 
+
+Di balik kemajuan pesatnya Kotlin, terdapat pengembang - pengembang hebat dan kreatif dari JetBrains. Kotlin dikembangkan oleh lebih dari 50 developer pimpinan [Andrey Breslav](https://twitter.com/abreslav). Mereka semua terinspirasi dari bahasa pemrograman yang sudah ada seperti Java, Scala, JavaScript, C# dan juga Groovy. Apa yang membedakan? Salah satunya, JetBrains memastikan bahwa Kotlin sangat mudah dipelajari.
+
+Karena tergolong proyek open-sources, Kotlin dapat bebas kita gunakan secara gratis. Kotlin dikembangkan di bawah lisensi **Apache 2.0** dan kode sumbernya bisa Anda akses di laman [GitHub](https://github.com/jetbrains/kotlin)-nya. Kita pun bisa berkontribusi dengan mengirimkan _pull request_ ke repository-nya.
+
+Kotlin dapat digunakan untuk berbagai macam pengembangan aplikasi, baik itu server atau backend, website, maupun mobile Android. Bahkan saat ini tengah dikembangkan **Kotlin/Native.** Apa uniknya? Kotlin/Native memungkinkan developer untuk menggunakannya sebagai bahasa pemrograman dalam pengembangan aplikasi di platform lain seperti _embedded system_, desktop, macOS, dan iOS. Bahkan tak menutup kemungkinan Kotlin juga bisa digunakan untuk _data science_ dan _machine learning_. Menarik, bukan?
+
+Dukungan _tools_ untuk Kotlin , sangat kuat. Kita bisa dengan mudah menggunakan Kotlin pada IDE seperti **IntelliJ IDEA**, **Android Studio**, **Eclipse**, dan **NetBeans**. Anda pun bisa menggunakan perintah terminal untuk mengkompilasi dan menjalankan Kotlin. Begitu pula untuk _build tools._ Pada JVM kita bisa menggunakan **Gradle**, **Maven**, **Ant**, atau **Kobalt**. Tersedia juga beberapa _build tools_ yang menargetkan JavaScript.
+
+Sebagaimana dijelaskan, kita bisa menargetkan Kotlin ke beberapa target. Kotlin akan menghasilkan _bytecode_ yang berbeda sesuai dengan targetnya. Ketika menargetkan JVM, Kotlin akan menghasilkan _bytecode_ yang kompatibel dengan Java. Kemudian ketika menargetkan JavaScript, Kotlin akan melakukan transpile ke ES5.1 dan menghasilkan kode yang kompatibel dengan sistem sub-modul termasuk AMD dan CommonJS. Sedangkan untuk native, Kotlin akan menghasilkan kode yang spesifik dengan platformnya melalui **LLVM**.
+
+Pada sub-modul ini kita akan mencoba mengenal Kotlin secara lebih mendalam. Harapannya, sebelum mempelajari komponen-komponen pada Kotlin secara spesifik, kita semua bisa memahami untuk apa saja Kotlin bisa digunakan, apa saja kelebihan dan kekurangannya, karakteristiknya, dan juga seperti apa ekosistem Kotlin di dunia pengembangan aplikasi.

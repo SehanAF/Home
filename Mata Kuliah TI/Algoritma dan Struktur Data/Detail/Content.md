@@ -1,0 +1,1 @@
+![[Mata Kuliah TI/Algoritma dan Struktur Data/Detail/Attachments/1. Pengenalan (1).pdf]]

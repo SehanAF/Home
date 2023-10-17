@@ -3,13 +3,10 @@
     "https://github.com/SehanAF/Home"
   ],
   "promptDelete": false,
-  "attachmentFolderPath": "./Attachments",
+  "attachmentFolderPath": "Attachments",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
   "newFileLocation": "root",
-  "spellcheckLanguages": [
-    "en-US",
-    "id"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true
 }
